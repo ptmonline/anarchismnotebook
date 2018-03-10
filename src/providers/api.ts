@@ -2,7 +2,7 @@ import { Injectable } from "@angular/core";
 import { HttpClient, HttpParams } from '@angular/common/http';
 
 @Injectable()
-export class FuckingApi {
+export class Api {
     url: string = './assets/stuff'
     constructor(public http: HttpClient) { }
 

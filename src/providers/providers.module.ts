@@ -1,5 +1,5 @@
-import { FuckingApi } from './fuckingapi';
+import { Api } from './api';
 
 export {
-    FuckingApi
+    Api
 };
