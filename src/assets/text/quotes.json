@@ -1,10 +1,16 @@
 {
-    "quotes": [{
+    "quotes": [
+        {
         "author": "Emma Goldman",
         "text": "People have only as much liberty as they have the intelligence to want and the courage to take."
     },
     {
         "author": "Ursula K. Le Guin, The Dispossessed ",
         "text": "You cannot buy the revolution. You cannot make the revolution. You can only be the revolution. It is in your spirit, or it is nowhere."
-    }]
+    },
+    {
+        "author": "Alan Moore, V for Vendetta  ",
+        "text": "Our masters have not heard the people's voice for generations and it is much, much louder than they care to remember."
+    }
+]
 }
