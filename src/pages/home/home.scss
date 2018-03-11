@@ -1,3 +1,17 @@
 page-home {
-
+    .content {
+        background: whitesmoke;
+        
+        .fucking-center-container {
+            width: 80%;
+            height: 30%;
+            margin: 10% auto;
+            h2 {
+                font-size: 4.3rem;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-weight: bold;
+                letter-spacing: -0.3rem;
+            }
+        }
+    }
 }
