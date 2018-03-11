@@ -3,7 +3,7 @@ import { HttpClient, HttpParams } from '@angular/common/http';
 
 @Injectable()
 export class Api {
-    url: string = './assets/stuff'
+    url: string = './assets/text'
     constructor(public http: HttpClient) { }
 
     get(endpoint: string, params?: any, reqOpts?: any) {
