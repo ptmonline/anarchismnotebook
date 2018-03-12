@@ -7,12 +7,14 @@
         },
         {
             "id": 2,
-            "author": "Ursula K. Le Guin, The Dispossessed",
+            "author": "Ursula K. Le Guin",
+            "extract": "The Dispossessed",
             "text": "You cannot buy the revolution. You cannot make the revolution. You can only be the revolution. It is in your spirit, or it is nowhere."
         },
         {
             "id": 3,
-            "author": "Alan Moore, V for Vendetta",
+            "author": "Alan Moore",
+            "extract": "V for Vendetta",
             "text": "Our masters have not heard the people's voice for generations and it is much, much louder than they care to remember."
         },
         {
@@ -22,7 +24,8 @@
         },
         {
             "id": 5,
-            "author": "Alan Moore, V for Vendetta",
+            "author": "Alan Moore",
+            "extract": "V for Vendetta",
             "text": "Your pretty empire took so long to build, now, with a snap of history's fingers, down it goes."
         },
         {
@@ -33,23 +36,112 @@
         },
         {
             "id": 7,
-            "author": "Emma Goldman, Anarchism and Other Essays",
+            "author": "Emma Goldman",
+            "extract": "Anarchism and Other Essays",
             "text": "Ask for work. If they don't give you work, ask for bread. If they do not give you work or bread, then take bread"
         },
         {
             "id": 8,
-            "author": "Emma Goldman, Anarchism and Other Essays",
+            "author": "Emma Goldman",
+            "extract": "Anarchism and Other Essays",
             "text": "Every society has the criminals it deserves."
         },
         {
             "id": 9,
-            "author": "Alan Moore, V for Vendetta",
+            "author": "Alan Moore",
+            "extract": "V for Vendetta",
             "text": "Authority, when first detecting chaos at its heels, will entertain the vilest schemes to save its orderly facade."
         },
         {
             "id": 10,
             "author": "Edward Abbey",
             "text": "Anarchism is founded on the observation that since few men are wise enough to rule themselves, even fewer are wise enough to rule others."
+        },
+        {
+            "id": 11,
+            "img": "education-godwin-clean.jpg"
+        },
+        {
+            "id": 12,
+            "img": "69310511-anarchist-wallpapers.jpg"
+        },
+        {
+            "id": 13,
+            "img": "0008814536_10.jpg"
+        },
+        {
+            "id": 14,
+            "img": "love-the-machine_hate-the-factory2.jpg"
+        },
+        {
+            "id": 15,
+            "img": "main-qimg-69ae907b6b032af66ccaecfbfe97f289.png"
+        },
+        {
+            "id": 16,
+            "img": "anarchism.jpg"
+        },
+        {
+            "id": 17,
+            "img": "anarchism-130403202926-phpapp01-thumbnail-4.jpg"
+        },
+        {
+            "id": 18,
+            "img": "large_1089_anarmarxism3_0.jpg"
+        },
+        {
+            "id": 19,
+            "img": "Anarchism_In_the_May_Movement_In_France-1_1024x1024.jpg"
+        },
+        {
+            "id": 20,
+            "author": "Tacitus",
+            "text": "If you would know who controls you see who you may not criticise."
+        },
+        {
+            "id": 21,
+            "author": "Edward Abbey",
+            "text": "Anarchism is not a romantic fable but the hardheaded realization, based on five thousand years of experience, that we cannot entrust the management of our lives to kings, priests, politicians, generals, and county commissioners."
+        },
+        {
+            "id": 22,
+            "author": "Cormac McCarthy",
+            "extract": "Child of God",
+            "text": "At one time in the world there were woods that no one owned"
+        },
+        {
+            "id": 23,
+            "author": "Robert Higgs",
+            "text": "Anarchists did not try to carry out genocide against the Armenians in Turkey; they did not deliberately starve millions of Ukrainians; they did not create a system of death camps to kill Jews, gypsies, and Slavs in Europe; they did not fire-bomb scores of large German and Japanese cities and drop nuclear bombs on two of them; they did not carry out a ‘Great Leap Forward’ that killed scores of millions of Chinese; they did not attempt to kill everybody with any appreciable education in Cambodia; they did not launch one aggressive war after another; they did not implement trade sanctions that killed perhaps 500,000 Iraqi children. In debates between anarchists and statists, the burden of proof clearly should rest on those who place their trust in the state. Anarchy’s mayhem is wholly conjectural; the state’s mayhem is undeniably, factually horrendous."
+        },
+        {
+            "id": 24,
+            "author": "Ursula K. Le Guin",
+            "extract": "The Dispossessed",
+            "text": "The individual cannot bargain with the State. The State recognizes no coinage but power: and it issues the coins itself."
+        },
+        {
+            "id": 25,
+            "author": "Edward Abbey",
+            "text": "Anarchism is democracy taken seriously."
+        },
+        {
+            "id": 26,
+            "author": "CrimethInc.",
+            "extract": "Expect Resistance: A Field Manual",
+            "text": "No one is more qualified than you are to decide how you live; no one should be able to vote on what you do with your time and your potential unless you invite them to. "
+        },
+        {
+            "id": 27,
+            "author": "Voltairine de Cleyre",
+            "extract": "Exquisite Rebel: The Essays of Voltairine de Cleyre -- Anarchist, Feminist, Genius",
+            "text": "If this is the price to be paid for an idea, then let us pay. There is no need of being troubled about it, afraid, or ashamed. This is the time to boldly say, “Yes, I believe in the displacement of this system of injustice by a just one; I believe in the end of starvation, exposure, and the crimes caused by them; I believe in the human soul regnant over all laws which man has made or will make; I believe there is no peace now, and there will never be peace, so long as one rules over another; I believe in the total disintegration and dissolution of the principle and practice of authority; I am an Anarchist, and if for this you condemn me, I stand ready to receive your condemnation."
+        },
+        {
+            "id": 28,
+            "author": "Bob Black",
+            "extract": "The Abolition of Work & Other Essays",
+            "text": "You are what you do. If you do boring, stupid monotonous work, chances are you'll end up boring, stupid and monotonous. Work is a much better explanation for the creeping cretinization all around us than even such significant moronizing mechanisms as television and education."
         }
     ]
 }
