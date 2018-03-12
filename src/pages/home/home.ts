@@ -12,6 +12,8 @@ export class HomePage {
   public showQuote: any;
   public author: string;
   public text: string;
+  public id: number;
+  public subtext: string;
 
   constructor(public navCtrl: NavController, private _api: Api) {
     this.init();
@@ -28,8 +30,10 @@ export class HomePage {
   chooseQuote(){
     this.showQuote = this.allQuotes.quotes[Math.floor(Math.random() * this.allQuotes.quotes.length)];
     console.log(this.showQuote);
+    this.id = this.showQuote.id;
     this.author = this.showQuote.author;
     this.text = this.showQuote.text;
+    if(this.showQuote.subtext) this.subtext = this.showQuote.subtext
   }
 
 }

@@ -1,16 +1,55 @@
 {
     "quotes": [
         {
-        "author": "Emma Goldman",
-        "text": "People have only as much liberty as they have the intelligence to want and the courage to take."
-    },
-    {
-        "author": "Ursula K. Le Guin, The Dispossessed ",
-        "text": "You cannot buy the revolution. You cannot make the revolution. You can only be the revolution. It is in your spirit, or it is nowhere."
-    },
-    {
-        "author": "Alan Moore, V for Vendetta  ",
-        "text": "Our masters have not heard the people's voice for generations and it is much, much louder than they care to remember."
-    }
-]
+            "id": 1,
+            "author": "Emma Goldman",
+            "text": "People have only as much liberty as they have the intelligence to want and the courage to take."
+        },
+        {
+            "id": 2,
+            "author": "Ursula K. Le Guin, The Dispossessed",
+            "text": "You cannot buy the revolution. You cannot make the revolution. You can only be the revolution. It is in your spirit, or it is nowhere."
+        },
+        {
+            "id": 3,
+            "author": "Alan Moore, V for Vendetta",
+            "text": "Our masters have not heard the people's voice for generations and it is much, much louder than they care to remember."
+        },
+        {
+            "id": 4,
+            "author": "Noam Chomsky",
+            "text": "That is what I have always understood to be the essence of anarchism: the conviction that the burden of proof has to be placed on authority, and that it should be dismantled if that burden cannot be met."
+        },
+        {
+            "id": 5,
+            "author": "Alan Moore, V for Vendetta",
+            "text": "Your pretty empire took so long to build, now, with a snap of history's fingers, down it goes."
+        },
+        {
+            "id": 6,
+            "author": "Pierre-Joseph Proudhon",
+            "text": "To be GOVERNED is to be watched, inspected, spied upon, directed, law-driven, numbered, regulated, enrolled, indoctrinated, preached at, controlled, checked, estimated, valued, censured, commanded, by creatures who have neither the right nor the wisdom nor the virtue to do so. To be GOVERNED is to be at every operation, at every transaction noted, registered, counted, taxed, stamped, measured, numbered, assessed, licensed, authorized, admonished, prevented, forbidden, reformed, corrected, punished. It is, under pretext of public utility, and in the name of the general interest, to be place under contribution, drilled, fleeced, exploited, monopolized, extorted from, squeezed, hoaxed, robbed; then, at the slightest resistance, the first word of complaint, to be repressed, fined, vilified, harassed, hunted down, abused, clubbed, disarmed, bound, choked, imprisoned, judged, condemned, shot, deported, sacrificed, sold, betrayed; and to crown all, mocked, ridiculed, derided, outraged, dishonored. That is government; that is its justice; that is its morality.",
+            "subtext": "General Idea of the Revolution in the Nineteenth Century, translated by John Beverly Robinson (London: Freedom Press, 1923), pp. 293-294"
+        },
+        {
+            "id": 7,
+            "author": "Emma Goldman, Anarchism and Other Essays",
+            "text": "Ask for work. If they don't give you work, ask for bread. If they do not give you work or bread, then take bread"
+        },
+        {
+            "id": 8,
+            "author": "Emma Goldman, Anarchism and Other Essays",
+            "text": "Every society has the criminals it deserves."
+        },
+        {
+            "id": 9,
+            "author": "Alan Moore, V for Vendetta",
+            "text": "Authority, when first detecting chaos at its heels, will entertain the vilest schemes to save its orderly facade."
+        },
+        {
+            "id": 10,
+            "author": "Edward Abbey",
+            "text": "Anarchism is founded on the observation that since few men are wise enough to rule themselves, even fewer are wise enough to rule others."
+        }
+    ]
 }

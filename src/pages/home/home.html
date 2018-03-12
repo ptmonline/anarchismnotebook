@@ -1,8 +1,12 @@
 <ion-content padding (click)="chooseQuote()">
-    <div class="fucking-center-container">
-  <h2>{{author}}</h2>
-  <p>
-   {{text}}
-  </p>
-    </div>
+  <div class="header">
+      <h2>{{id}}.- {{author}}</h2>
+  </div>
+  <div class="fucking-center-container">
+
+    <p>
+      {{text}}
+      <span>{{subtext}}</span>
+    </p>
+  </div>
 </ion-content>
