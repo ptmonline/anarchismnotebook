@@ -2,17 +2,23 @@ page-home {
     .content {
         background: whitesmoke;
         .header {
+            // h2 {
+            //     font-size: 4.3rem;
+            //     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            //     font-weight: bold;
+            //     letter-spacing: -0.3rem;
+            //     margin: 0 0 1rem;
+            // }
             h2 {
-                font-size: 4.3rem;
+                font-size: 4rem;
                 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
                 font-weight: bold;
+                text-align: right;
                 letter-spacing: -0.3rem;
-                margin: 0 0 1rem;
+                margin: 0;
+                margin-bottom: 0.5rem;
             }
-            h3 {
-                font-weight: 400;
-            }
-            border-bottom: 6px solid black;
+            border-bottom: 9px solid black;
         }
         .fucking-center-container {
             width: 80%;
@@ -23,6 +29,7 @@ page-home {
                 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
                 font-weight: normal;
                 letter-spacing: -0.1rem;
+                line-height: 2.3rem;
                 span {
                     font-size: 1.5rem;
                     display: block;
@@ -32,6 +39,12 @@ page-home {
                 }
             }
         }
+    }
+    h3 {
+        font-weight: 500;
+        margin: 0;
+        margin-top: 0.5rem;
+        font-size: 1.8rem;
     }
     img {
         margin: 0;
