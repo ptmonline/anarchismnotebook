@@ -356,6 +356,571 @@
         {
             "id": 66,
             "img": "maxresdefault.jpg"
+        },
+        {
+            "id": 67,
+            "author": "Georges Clémenceau",
+            "text": "L'homme qui n'a pas été anarchiste à seize ans est un imbécile. Mais c'en est un autre, s'il l'est encore à quarante."
+        },
+        {
+            "id": 68,
+            "author": "Edward Abbey",
+            "extract": "Postcards from Ed: Dispatches and Salvos from an American Iconoclast",
+            "text": "Anarchism? You bet your sweet betsy. The only cure for the ills of democracy is more democracy. Much more."
+        },
+        {
+            "id": 69,
+            "author": "Alain Daniélou",
+            "extract": "Gods of Love and Ecstasy: The Traditions of Shiva and Dionysus",
+            "text": "The faithful of Shiva or Dionysus seek contact with those forces which...lead to a refusal of the politics, ambitions and limitations of ordinary social life. This does not involve simply a recognition of world harmony, but also an active participation in an experience which surpasses and upsets the order of material life."
+        },
+        {
+            "id": 70,
+            "author": "Ursula K. Le Guin",
+            "extract": "The Dispossessed",
+            "text": "Can true function arise from basic dysfunction?"
+        },
+        {
+            "id": 71,
+            "author": "Ernst Jünger",
+            "extract": "Eumeswil",
+            "text": "The anarchist, as the born foe of authority, will be destroyed by it after damaging it more or less. The anarch, on the other hand, has appropriated authority; he is sovereign. He therefore behaves as a neutral power vis-à-vis state and society. He may like, dislike, or be indifferent to whatever occurs in them. That is what determines his conduct; he invests no emotional values."
+        },
+        {
+            "id": 72,
+            "author": "Daniel Guérin",
+            "extract": "Anarchism",
+            "text": "Far from checking the spread of immorality, repression has always extended and deepended it. Thus it is futile to oppose it by rigorous legislation which trespasses on individual liberty."
+        },
+        {
+            "id": 73,
+            "author": "Bob Torres",
+            "extract": "Making A Killing: The Political Economy of Animal Rights",
+            "text": "If we're all led to believe that poverty is just a matter of laziness or stupidity or whatever other justifications we can come up with, then we're not likely to be in a real position to do much about it when it comes to attacking the root cause of the problem. Instead of demanding a more equitable system for the distribution of social and economic goods, we blame the victim. This is insidious, because ideology is something we carry around with us in our heads; it forms the basis of our day-to-day understanding of the world."
+        },
+        {
+            "id": 74,
+            "author": "Joyce Cary",
+            "extract": "The Horse's Mouth",
+            "text": "Plantie is a very strong Protestant, that is to say, he's against all churches, especially the Protestant: and he thinks a lot of Buddha, Karma and Confucius. He is also a bit of an anarchist and three or four years ago he took up Einstein and vitamins."
+        },
+        {
+            "id": 75,
+            "author": "G.K. Chesterton",
+            "extract": "The Man Who Was Thursday: A Nightmare",
+            "text": "The silly sentimentalists of the French Revolution talked of the Rights of Man! We hate Rights as we hate Wrongs. We have abolished Right and Wrong. And Right and Left, said Syme with a simple eagerness, I hope you will abolish them too. They are much more troublesome to me."
+        },
+        {
+            "id": 76,
+            "author": "Martha A. Ackelsberg",
+            "extract": "Free Women of Spain: Anarchism and the Struggle for the Emancipation of Women",
+            "text": "Freedom, or individual liberty, was a basic premise of the Spanish anarchist tradition.'Individual sovereignty' is a prime tenet of most anarchist writing; the free development of one' s individual potential is one of the basic 'rights' to which all humans are born. Yet Spanish anarchists were firmly rooted in the communalist-anarchist tradition. For them, freedom was fundamentally a social product: the fullest expression of individuality and of creativity can be achieved only in and through community. As Carmen Conde (a teacher who was also active in Mujeres Libres) wrote, describing the relationship of individuality and community: 'I and my truth; I and my faith ... And I for you, but without ever ceasing to be me, so that you can always be you. Because I don' t exist without your existence, but my existence is also indispensable to yours."
+        },
+        {
+            "id": 77,
+            "author": "Ernst Jünger",
+            "extract": "Eumeswil",
+            "text": "The anarch differs from the anarchist in that he has a very pronounced sense of the rules. Insofar as and to the extent that he observes them, he feels exempt from thinking. This is consistent with normal behavior: everyone who boards a train rolls over bridges and through tunnels that engineers have devised for him and on which a hundred thousand hands have labored. This does not darken the passenger’s mood; settling in comfortably, he buries himself in his newspaper, has breakfast, or thinks about his business. Likewise, the anarch – except that he always remains aware of that relationship, never losing sight of his main theme, freedom, that which also flies outside, past hill and dale. He can get away at any time, not just from the train, but also from any demand made on him by state, society, or church, and also from existence."
+        },
+        {
+            "id": 78,
+            "author": "Christopher Hitchens",
+            "extract": "For the Sake of Argument: Essays and Minority Reports",
+            "text": "Would you have wished more, or fewer, anarchists around in the Thousand Year Reich or any of the other fantasies of hierarchy?"
+        },
+        {
+            "id": 79,
+            "author": "Luis Sepúlveda",
+            "extract": "A sombra do que fomos",
+            "text": "La libertà è uno stato di grazia e si è liberi solo mentre si lotta per conquistarla."
+        },
+        {
+            "id": 80,
+            "author": "Errico Malatesta",
+            "extract": "Malatesta: Life & Ideas",
+            "text": "The needs, tastes, aspirations and interests of mankind are neither similar nor naturally harmonious; often they are diametrically opposed and antagonistic. On the other hand, the life of each individual is so conditioned by the life of others that it would be impossible, even assuming it were convenient to do so, to isolate oneself and live one’s own life. Social solidarity is a fact from which no one can escape."
+        },
+        {
+            "id": 81,
+            "author": "Emma Goldman",
+            "extract": "Marriage and Love [Illustrated edition]",
+            "text": "Doubtless there are people who continue to consider love above dollars and cents. Particularly is this true or that class whom economic necessity has forced to become self-supporting. The tremendous change in woman's position, wrought by that might factor, is indeed phenomenal when we reflect that it is but a short time since she has entered the industrial arena. Six million women wage workers; six million women, who have equal rights with men to be exploited, to be robbed, to go on strike; aye, to starve even. Anything more, my lord? Yes, six million wage workers in every walk of life, from the highest brain work to the mines and railroad tracks; yes, even detectives and policemen. Surely the emancipation is complete."
+        },
+        {
+            "id": 82,
+            "author": "Emma Goldman",
+            "extract": "Marriage and Love",
+            "text": "Whether love last but one brief span of time or for eternity, it is the only creative, inspiring, elevating basis for a new race, a new world."
+        },
+        {
+            "id": 83,
+            "author": "Murray Bookchin",
+            "text": "The fact is that power is as ubiquitous as gravity. Just as gravity is one of the forces that hold the universe together, so power is one of the forces that hold any society together. A defining feature of any society—whether it is tribal, slave, feudal, capitalist, socialist, communist, or even anarchist—is not whether power is being exercised but how. To argue that social power as such is somehow wrong or “evil” is fallacious. What counts is whether it belongs to the people, and by what kind of institutions is it being exercised."
+        },
+        {
+            "id": 84,
+            "author": "Gareth Knight",
+            "extract": "Practical Guide to Qabalistic Symbolism",
+            "text": "The Revolutionaries of all times have not known that anarchy, being the conflict of Lusts and the fatal reign of Violence, substitutes might for right, and paves the way ever for the rule of the most audaciously criminal."
+        },
+        {
+            "id": 85,
+            "author": "Noam Chomsky",
+            "extract": "On Anarchism",
+            "text": "In fact, I should say to begin with that the term anarchism is quite a range of political ideas, but I would prefer to think of it as the libertarian left, and from that point of view anarchism can be conceived as a kind of voluntary socialism, that is, as libertarian socialist or anarcho-syndicalist or communist anarchist, in the tradition of say Bakunin and Kropotkin and others. They had in mind a highly organized form of society, but a society that was organized on the basis of organic units, organic communities. And generally they meant by that the workplace and the neighborhood, and from those two basic units there could derive through federal arrangements a highly integrated kind of social organization, which might be national or even international in scope. And the decisions could be made over a substantial range, but by delegates who are always part of [he organic community from which they come, to which they return and in which, in fact, they live."
+        },
+        {
+            "id": 86,
+            "author": "Noam Chomsky",
+            "extract": "On Anarchism",
+            "text": "Representative democracy, as in, say, the United States or Great Britain, would be criticized by an anarchist of this school on two grounds. First of all because there is a monopoly of power centralized in the State, and secondly and critically—because representative democracy is limited to the political sphere and in no serious way encroaches on the economic sphere. Anarchists of this tradition have always held that democratic control of one's productive life is at the core of any serious human liberation, or, for that matter, of any significant democratic practice. That is, as long as individuals are compelled to rent themselves on the market to those who are willing to hire them, as long as their role in production is simply that of ancillary tools, then there are striking elements of coercion and oppression that make talk of democracy very limited, if even meaningful."
+        },
+        {
+            "id": 87,
+            "author": "Noam Chomsky",
+            "extract": "On Anarchism",
+            "text": "A good example of a really large-scale anarchist revolution—in fact the best example to my knowledge—is the Spanish revolution in 1936, in which over most of Republican Spain there was a quite inspiring anarchist revolution that involved both industry and agriculture over substantial areas, developed in a way which to the outside looks spontaneous. Though in fact if you look at the roots of it, you discover that it was based on some three generations of experiment and thought and work which extended anarchist ideas to very large parts of the population in this largely pre-industrial—though not totally pre-industrial—society. And that again was, by both human measures and indeed anyone's economic measures, quite successful. That is, production continued effectively; workers in farms and factories proved quite capable of managing their affairs without coercion from above, contrary to what lots of socialists, communists, liberals and others wanted to believe, and in fact you can't tell what would have happened. That anarchist revolution was simply destroyed by force, but during the period in which it was alive I think it was a highly successful and, as I say, in many ways a very inspiring testimony to the ability of poor working people to organize and manage their own affairs, extremely successfully, without coercion and control. How relevant the Spanish experience is to an advanced industrial society. one might question in detail."
+        },
+        {
+            "id": 88,
+            "author": "Noam Chomsky",
+            "extract": "On Anarchism",
+            "text": "My short-term goals are to defend and even strengthen elements of state authority which, though illegitimate in fundamental ways, are critically necessary right now to impede the dedicated efforts to 'roll back' the progress that has been achieved in extending democracy and human rights. State authority is now under severe attack in the more democratic societies, but not because it conflicts with the libertarian vision. Rather the opposite: because it offers (weak) protection to some aspects of that vision. Governments have a fatal flaw: unlike the private tyrannies, the institutions of state power and authority offer to the despised public an opportunity to play some role, however limited, in managing their own affairs. That defect is intolerable to the masters, who now feel, with some justification, that changes in the international economic and political order offer the prospects of creating a kind of 'utopia for the masters,' with dismal prospects for most of the rest. It should be unnecessary to spell out here what I mean. The effects are all too obvious even in the rich societies, from the corridors of power to the streets, countryside, and prisons. For reasons that merit attention but that lie beyond the scope of these remarks, the rollback campaign is currently spearheaded by dominant sectors of societies in which the values under attack have been realized in some of their most advanced forms, the English-speaking world; no small irony, but no contradiction either."
+        },
+        {
+            "id": 89,
+            "author": "Henry David Thoreau",
+            "text": "In an unjust society the only place for a just man is prison."
+        },
+        {
+            "id": 89,
+            "author": "Oscar Auliq-Ice Junior",
+            "text": "Conspiracy theories tend to depend on conspirators who are unduly evil with genocide or world domination as a motive."
+        },
+        {
+            "id": 90,
+            "img": "the-black-flag.png"
+        },
+        {
+            "id": 91,
+            "img": "korea001.jpg"
+        },
+        {
+            "id": 92,
+            "img": "Anarchy2nd_05.jpg"
+        },
+        {
+            "id": 93,
+            "author": "George Orwell",
+            "extract": "Homage to Catalonia",
+            "text": "I had dropped more or less by chance into the only community of any size in Western Europe where political consciousness and disbelief in capitalism were more normal than their opposites. Up here in Aragon one was among tens of thousands of people, mainly though not entirely of working-class origin, all living at the same level and mingling on terms of equality. In theory it was perfect equality, and even in practice it was not far from it. There is a sense in which it would be true to say that one was experiencing a foretaste of Socialism, by which I mean that the prevailing mental atmosphere was that of Socialism. Many of the normal motives of civilized life — snobbishness, money-grubbing, fear of the boss, etc. — had simply ceased to exist. The ordinary class-division of society had disappeared to an extent that is almost unthinkable in the money — tainted air of England; there was no one there except the peasants and ourselves, and no one owned anyone else as his master."
+        },
+        {
+            "id": 94,
+            "author": "Oscar Auliq-Ice Junior",
+            "text": "Defining what constitutes a conspiracy theory is difficult."
+        },
+        {
+            "id": 95,
+            "author": "Pyotr Kropotkin",
+            "extract": "The Conquest of Bread",
+            "text": "If all the men and women in the countryside had their daily bread assured, and their daily needs already satisfied, who would work for our capitalist at a wage of half a crown a day, while the commodities one produces in a day sell in the market for a crown or more?"
+        },
+        {
+            "id": 96,
+            "author": "Oscar Auliq-Ice Junior",
+            "text": "Believing in a conspiracy theory is one strategy people use to regain a sense of control, even if the conspiracy theory is unrelated to what caused the lack of control in a person’s life."
+        },
+        {
+            "id": 97,
+            "author": "Peter Gelderloos",
+            "extract": "How Nonviolence Protects the State",
+            "text": "We must realistically accept that revolution is a social war, not because we like war, but because we recognize that the status quo is a low-intensity war and challenging the state results in an intensification of that warfare. We must also accept that revolution necessitates interpersonal conflict because certain classes of people are employed to defend the centralizing institutions we must destroy. People who continue to dehumanize themselves as agents of law and order must be defeated by whatever means necessary until they can no longer prevent people’s autonomous realization of their needs."
+        },
+        {
+            "id": 98,
+            "author": "Oscar Auliq-Ice Junior",
+            "text": "Conspiracy theories are ways for someone to understand what is going on in the world and try to restore some sense of control in themselves."
+        },
+        {
+            "id": 99,
+            "author": "G.K. Chesterton",
+            "extract": "The Man Who Was Thursday",
+            "text": "We deny the snobbish English assumption that the uneducated are the dangerous criminals. We remember the Roman Emperors. We remember the great poisoning princes of the Renaissance. We say that the dangerous criminal is the educated criminal."
+        },
+        {
+            "id": 100,
+            "author": "Noam Chomsky",
+            "extract": "Understanding Power: The Indispensable Chomsky",
+            "text": "Yeah, it's a bum rap, basically―it's like referring to Soviet-style bureaucracy as 'socialism,' or any other term of discourse that's been given a second meaning for the purpose of ideological warfare. I mean, 'chaos' is a meaning of the word, but it's not a meaning that has any relevance to social thought. Anarchy as a social philosophy has never meant 'chaos'―in fact, anarchists have typically believed in a highly organized society, just one that's organized democratically from below."
+        },
+        {
+            "id": 101,
+            "author": "Pyotr Kropotkin",
+            "extract": "Anarchism: A Collection of Revolutionary Writings",
+            "text": "The anarchists cannot consider, like the collectivists, that a remuneration which would be proportionate to the hours of labour spent by each person in the production of riches may be an ideal, or even an approach to an ideal, society. Without entering here into a discussion as to how far the exchange value of each merchandise is really measured now by the amount of labour necessary for its production—a separate study must be devoted to the subject—we must say that the collectivist ideal seems to us merely unrealizable in a society which has been brought to consider the necessaries for production as a common property. Such a society would be compelled to abandon the wage-system altogether. It appears impossible that the mitigated individualism of the collectivist school could co-exist with the partial communism implied by holding land and machinery in common—unless imposed by a powerful government, much more powerful than all those of our own times. The present wage-system has grown up from the appropriation of the necessaries for production by the few; it was a necessary condition for the growth of the present capitalist production; and it cannot outlive it, even if an attempt be made to pay to the worker the full value of his produce, and hours-of-labour-checks be substituted for money. Common possession of the necessaries for production implies the common enjoyment of the fruits of the common production; and we consider that an equitable organization of society can only arise when every wage-system is abandoned, and when everybody, contributing for the common well-being to the full extent of his capacities, shall enjoy also from the common stock of society to the fullest possible extent of his needs."
+        },
+        {
+            "id": 102,
+            "author": "George Orwell",
+            "extract": "Homage to Catalonia",
+            "text": "It was the first time I had ever been in a town where the working class was in the saddle. Practically every building of any size had been seized by the workers and was draped with red flags or with the red and black flag of the Anarchists; every wall was scrawled with the hammer and sickle and with the initials of the revolutionary parties; almost every church had been gutted and its images burnt. Churches here and there were being systematically demolished by gangs of workmen. Every shop and café had an inscription saying that it had been collectivized; even the bootblacks had been collectivized and their boxes painted red and black. Waiters and shop-walkers looked you in the face and treated you as an equal."
+        },
+        {
+            "id": 103,
+            "author": "George Orwell",
+            "extract": "Homage to Catalonia",
+            "text": "Together with all this there was something of the evil atmosphere of war. The town had a gaunt untidy look, roads and buildings were in poor repair, the streets at night were dimly lit for fear of air — raids, the shops were mostly shabby and half-empty. Meat was scarce and milk practically unobtainable, there was a shortage of coal, sugar, and petrol, and a really serious shortage of bread. Even at this period the bread-queues were often hundreds of yards long. Yet so far as one could judge the people were contented and hopeful. There was no unemployment, and the price of living was still extremely low; you saw very few conspicuously destitute people, and no beggars except the gipsies. Above all, there was a belief in the revolution and the future, a feeling of having suddenly emerged into an era of equality and freedom. Human beings were trying to behave as human beings and not as cogs in the capitalist machine."
+        },
+        {
+            "id": 104,
+            "author": "Errico Malatesta",
+            "extract": "Malatesta: Life & Ideas",
+            "text": "By definition an anarchist is he who does not wish to be oppressed nor wishes to be him self an oppressor; who wants the greatest well-being, freedom and development for all human beings. His ideas, his wishes have their origin in a feeling of sympathy, love and respect for humanity: a feeling which must be sufficiently strong to induce him to want the well-being of others as much as his own, and to renounce those personal advantages, the achievement of which, would involve the sacrifice of others."
+        },
+        {
+            "id": 105,
+            "author": "Errico Malatesta",
+            "extract": "Malatesta: Life & Ideas",
+            "text": "We too aspire to communism as the most perfect achievement of human solidarity, but it must be anarchist communism, that is, freely desired and accepted, and the means by which the freedom of everyone is guaranteed and can expand; for these reasons we maintain that State communism, which is authoritarian and imposed, is the most hateful tyranny that has ever afflicted, tormented and handicapped mankind."
+        },
+        {
+            "id": 106,
+            "author": "Errico Malatesta",
+            "extract": "Malatesta: Life & Ideas",
+            "text": "Anarchists are justifiably opposed to authoritarian communism, which presupposes a government wanting to direct every aspect of social life, and placing the organization of production and the distribution of wealth under the orders of its nominees, which cannot but create the most hateful tyranny and the crippling of all the living forces in society."
+        },
+        {
+            "id": 107,
+            "author": "Errico Malatesta",
+            "extract": "Malatesta: Life & Ideas",
+            "text": "From 1871, when we began our propaganda in Italy, we have always been, and have always called ourselves socialist anarchists. In conversation, we would also call ourselves just anarchists, because it was understood that the anarchists were socialists, just as in earlier days, when we were the only socialists in Italy, we often called ourselves simply socialists, since it was generally understood that socialists were also anarchists. We have always been of the opinion that socialism and anarchy are two words which basically have the same meaning, since it is not possible to have economic emancipation (abolition of property) without political emancipation (abolition of government) and vice versa."
+        },
+        {
+            "id": 108,
+            "author": "Errico Malatesta",
+            "extract": "Malatesta: Life & Ideas",
+            "text": "I do not think that what matters is the triumph of our plans, our projects and our utopias, which in any case will need the confirmation and experiment, and may as a result have to be modified, developed or adapted to the true moral and material conditions in time and place. What matters most of all is that the people, all people, should lose their sheeplike instincts and habits with which their minds have been inculcated by an age-long slavery, and that they should learn to think and act freely. It is to this great task of spiritual liberation that anarchists must especially devote their attention."
+        },
+        {
+            "id": 109,
+            "author": "Errico Malatesta",
+            "extract": "Malatesta: Life & Ideas",
+            "text": "One of the basic tenets of anarchism is the abolition of monopoly, whether of the land, raw materials, or the means of production, and consequently the abolition of exploitation of the labour of others by those who posses the means of production. The appropriation of the labour of others, of all that permits a man to live without contributing his share to society, is from the anarchist and socialist point of view, theft."
+        },
+        {
+            "id": 110,
+            "author": "Graeme Rodaughan",
+            "extract": "A Traitor's War",
+            "text": "Behind every unquestionable belief is a system of control."
+        },
+        {
+            "id": 111,
+            "author": "Dane Whalen",
+            "text": "Patriotism is the product of successful systematic indoctrination."
+        },
+        {
+            "id": 112,
+            "author": "Rudolf Rocker",
+            "extract": "Anarchism and Anarcho-Syndicalism",
+            "text": "Meanwhile, two other great currents in political thought, had a decisive significance on the development of socialist ideas: Liberalism, which had powerfully stimulated advanced minds in the Anglo-Saxon countries, Holland and Spain in particular, and Democracy in the sense. to which Rousseau gave expression in his Social Contract, and which found its most influential representatives in the leaders of French Jacobinism. While Liberalism in its social theories started off from the individual and wished to limit the state's activities to a minimum, Democracy took its stand on an abstract collective concept, Rousseau's general will, which it sought to fix in the national state. Liberalism and Democracy were pre-eminently political concepts, and since most of the original adherents of both did scarcely consider the economic conditions of society, the further development of these conditions could not be practically reconciled with the original principles of Democracy, and still less with those of Liberalism. Democracy with its motto of equality of all citizens before the law, and Liberalism with its right of man over his own person, both were wrecked on the realities of capitalist economy. As long as millions of human beings in every country have to sell their labour to a small minority of owners, and sink into the most wretched misery if they can find no buyers, the so-called equality before the law remains merely a pious fraud, since the laws are made by those who find themselves in possession of the social wealth. But in the same way there can be no talk of a right over one's own person, for that right ends when one is compelled to submit to the economic dictation of another if one does not want to starve."
+        },
+        {
+            "id": 113,
+            "author": "Emma Goldman",
+            "text": "I did not believe that a Cause which stood for a beautiful ideal, for anarchism, for release and freedom from convention and prejudice, should demand the denial of life and joy. I insisted that our Cause could not expect me to become a nun and that the movement would not be turned into a cloister. If it meant that, I did not want it. 'I want freedom, the right to self-expression, everybody's right to beautiful, radiant things.' Anarchism meant that to me, and I would live it in spite of the whole world — prisons, persecution, everything. Yes, even in spite of the condemnation of my own closest comrades I would live my beautiful ideal."
+        },
+        {
+            "id": 114,
+            "author": "Noam Chomsky",
+            "text": "Most schooling is training for stupidity and conformity, and that's institutional, but occasionally you get a spark, somebody'll challenge your mind, make you think and so on, and that has a tremendous effect you just reach all sorts of people. Of course if you do it you may very have problems, you have to tread the narrow line. There are plenty of people who don't want students to think, they're afraid of the crisis of democracy. If people start thinking you get all these problems that I quoted before. They won't have enough humility to submit to a civil rule or they'll start trying to press their demands in the political arena and have ideas of their own, instead of beleiving what they're told. And privelage and power typically doesn't want that and so they react and the high school teacher that tries to get students to think may find oppression, firing and so on."
+        },
+        {
+            "id": 115,
+            "author": "Voltairine de Cleyre",
+            "extract": "The Voltairine de Cleyre Reader",
+            "text": "Subvert the social and civil order! Aye, I would destroy, to the last vestige, this mockery of order, this travesty upon justice! Break up the home? Yes, every home that rests on slavery! Every marriage that represents the sale and transfer of the individuality of one of its parties to the other! Every institution, social or civil, that stands between man and his right; every tie that renders one a master, another a serf; every law, every statute, every be-it-enacted that represents tyranny; everything you call American privilege that can only exist at the expense of international right. Now cry out, 'Nihilist-disintegrationist !'  Say that I would isolate humanity, reduce society to its elemental state, make men savage! It is not true. But rather than see this devastating, cankering, enslaving system you call social order go on, rather than help to keep alive the accursed institutions of Authority, I would help to reduce every fabric in the social structure to its native element."
+        },
+        {
+            "id": 116,
+            "author": "Ernst Jünger",
+            "extract": "Eumeswil",
+            "text": "Two reefs tower in front of the anarchist. The first, the state, must be overcome, especially in a hurricane, when the waves soar. He ineluctably runs aground on the second one, society, the very image that flickered before him. There is a brief intermezzo between the fall of the legitimate powers and the new legality. Two weeks after Kropotkin’s funeral cortege, in which his corpse had followed the Black Banners, the sailors of Kronstadt were liquidated. This is not to say that nothing had happened in between—Merlino, one of the disillusioned, hit the nail on the head: ‘Anarchism is an experiment."
+        },
+        {
+            "id": 117,
+            "author": "Max Stirner",
+            "extract": "The Ego and Its Own",
+            "text": "I love men too — not merely individuals, but every one. But I love them with the consciousness of egoism; I love them because love makes me happy, I love because loving is natural to me, because it pleases me. I know no 'commandment of love.' I have a fellow-feeling with every feeling being, and their torment torments, their refreshment refreshes me too; I can kill them, not torture them."
+        },
+        {
+            "id": 118,
+            "author": "A.E. Samaan",
+            "text": "If your political theory requires humanity to 'evolve', then you do not have a theory.... you have a dream."
+        },
+        {
+            "id": 119,
+            "author": "Pierre-Joseph Proudhon",
+            "text": "— Eh bien ! vous êtes démocrate ? — Non. — Quoi ! vous seriez monarchique ? — Non. — Constitutionnel ? — Dieu m’en garde. — Vous êtes donc aristocrate ? — Point du tout. — Vous voulez un gouvernement mixte ? — Encore moins. Qu’êtes-vous donc ? — Je suis anarchiste. — Je vous entends : vous faites de la satire ; ceci est à l’adresse du gouvernement. — En aucune façon : vous venez d’entendre ma profession de foi sérieuse et mûrement réfléchie ; quoique très ami de l’ordre, je suis, dans toute la force du terme, anarchiste."
+        },
+        {
+            "id": 120,
+            "author": "Dane Whalen",
+            "text": "More often than not, a statist's argument against Anarchism boils down to an unwillingness to take control and responsibility for their own lives, actions, and communities. The sad truth is that the human animal has been domesticated to the point where it actually fears Liberty."
+        },
+        {
+            "id": 121,
+            "author": "Noam Chomsky",
+            "text": "These ideas grew out of the Enlightenment; their roots are in Rousseau’s Discourse on Inequality, Humboldt’s Limits of State Action, Kant’s insistence, in his defense of the French Revolution, that freedom is the precondition for acquiring the maturity for freedom, not a gift to be granted when such maturity is achieved. With the development of industrial capitalism, a new and unanticipated system of injustice, it is libertarian socialism that has preserved and extended the radical humanist message of the Enlightenment and the classical liberal ideals that were perverted into an ideology to sustain the emerging social order. In fact, on the very same assumptions that led classical liberalism to oppose the intervention of the state in social life, capitalist social relations are also intolerable."
+        },
+        {
+            "id": 122,
+            "author": "Chaz Bufe",
+            "extract": "Anarchism: What It Is & What It Isn't",
+            "text": "Anarchism is not chaos; Anarchism is not rejection of organization. This is another popular misconception, repeated ad nauseam by the corporate media and by anarchism's political foes, especially Marxists (who sometimes know better)."
+        },
+        {
+            "id": 123,
+            "author": "Dane Whalen",
+            "text": "Educate the Russian or the American or the Englishman or the Irishman or Frenchman or any real northern European except German, and you get the Anarchist, that is to say the man who dreams of order without organisation - of something beyond organisation..."
+        },
+        {
+            "id": 124,
+            "author": "Moonshine Noire",
+            "text": "This revolution will be noted. It will be successful and above all, it will be in words."
+        },
+        {
+            "id": 125,
+            "author": "Pierre-Joseph Proudhon",
+            "text": "As man seeks justice in equality, so society seeks order in anarchy"
+        },
+        {
+            "id": 126,
+            "author": "A.E. Samaan",
+            "text": "If your political theory requires humanity to 'evolve', then you do not have a theory."
+        },
+        {
+            "id": 127,
+            "author": "Jalina Mhyana",
+            "extract": "Dreaming in Night Vision: A Story in Vignettes",
+            "text": "Dante Alighieri wrote his first book in the prosimetrum genre – La Vita Nuova – in 14th century Florence. Since I’m compiling this collection – my first indie publication – in Florence, just blocks from Dante’s house, and since his book involves a lost love, and ‘A New Life,’ I thought it fitting to emulate this style in my own casual, intuitive fashion. My hope is that the juxtaposition of poems, journal entries, essays and prose will create a story; a memoir in anarchistic vignettes."
+        },
+        {
+            "id": 128,
+            "author": "Abdullah Öcalan",
+            "extract": "Democratic Confederalism",
+            "text": "The right of self-determination of the peoples includes the right to a state of their own. However, the foundation of a state does not increase the freedom of a people. The system of the United Nations that is based on nation-states has remained inefficient. Meanwhile, nation-states have become serious obstacles for any social development. Democratic confederalism is the contrasting paradigm of the oppressed people. Democratic confederalism is a non-state social paradigm. It is not controlled by a state. At the same time, democratic confederalism is the cultural organizational blueprint of a democratic nation. Democratic confederalism is based on grassroots participation. Its decision-making processes lie with the communities. Higher levels only serve the coordination and implementation of the will of the communities that send their delegates to the general assemblies. For limited space of time they are both mouthpiece and executive institution. However, the basic power of decision rests with the local grassroots institutions."
+        },
+        {
+            "id": 129,
+            "author": "Peter Arshinov",
+            "extract": "History of the Makhnovist Movement, 1918-21",
+            "text": "Proletarians of the world, look into the depths of your own beings, seek out the truth and realise it yourselves: you will find it nowhere else."
+        },
+        {
+            "id": 130,
+            "author": "Noah Wareness",
+            "text": "You know how long's the universe. It's seven million freeways side by side. You know how high. So high the moon just falls. But little punks, you still know the hardcore of the universe. It's cause you're hardcore too. You're made of pure universe, under your bones. And nothing ever starts shit by meaning to. We meant to break down the amerikan dream throwing bottles. All we broke was bottles. What worked was one stolen handful of flax seed. All ages shows in the highschool parkade, and the keys to the bandroom door. Their dream was a joke anyway. What worked was a nother joke"
+        },
+        {
+            "id": 131,
+            "author": "Paul Goodman",
+            "extract": "Growing Up Absurd",
+            "text": "Doing the forbidden is a normal function of growth."
+        },
+        {
+            "id": 132,
+            "author": "Chaz Bufe",
+            "extract": "Anarchism: What It Is & What It Isn't",
+            "text": "For over a century and a half, anarchists have been arguing that coercive, hierarchical organization (as embodied in government and corporations) is not equivalent to organization per se (which they regard as necessary), and that coercive organization should be replaced by decentralized, nonhierarchical organization based on voluntary cooperation and mutual aid. This is hardly a rejection of organization."
+        },
+        {
+            "id": 133,
+            "author": "Dane Whalen",
+            "text": "Terrorism is the use of violence or intimidation in the pursuit of a political aim. The highest political aim is the creation and enforcement of law. Cops use violence and intimidation to enforce law. Therefore, all cops are, by definition, terrorists."
+        },
+        {
+            "id": 134,
+            "author": "Chaz Bufe",
+            "extract": "Anarchism: What It Is & What It Isn't",
+            "text": "To most anarchists, the advocacy of freedom on Earth while bowing to a heavenly tyrant (no matter how imaginary) seems an insupportable contradiction."
+        },
+        {
+            "id": 135,
+            "author": "Paul Goodman",
+            "text": "Free action is to live in the present society as though it were a natural society."
+        },
+        {
+            "id": 136,
+            "author": "Ian Bone",
+            "extract": "Bash The Rich",
+            "text": "We wanted to produce a newspaper which would put (1) class and (2) violence back at the top of the anarchist agenda. It would be big and tabloid brash, lots of short articles and graphics, no long boring shit. It would be fucking funny as fucking fuck."
+        },
+        {
+            "id": 137,
+            "author": "Emma Goldman",
+            "extract": "Marriage and Love",
+            "text": "Love is it's own protection."
+        },
+        {
+            "id": 138,
+            "author": "Rudolf Rocker",
+            "extract": "Anarcho-Syndicalism: Theory and Practice",
+            "text": "Anarchism recognizes only the relative significance of ideas, institutions, and social forms. It is, therefore, not a fixed, self-enclosed social system, but rather a definite trend in the historic development of mankind, which, in contrast with the intellectual guardianship of all clerical and governmental institutions, strives for the free unhindered unfolding of all the individual and social forces in life. Even freedom is only a relative, not an absolute concept, since it tends constantly to become broader and to affect wider circles in more manifold ways. For the Anarchist, freedom is not an abstract philosophical concept, but the vital concrete possibility for every human being to bring to full development all the powers, capacities, and talents with which nature has endowed him, and tum them to social account. The less this natural development of man is influenced by ecclesiastical or political guardianship, the more efficient and harmonious will human personality become, the more will it become the measure of the intellectual culture of the society in which it has grown."
+        },
+        {
+            "id": 139,
+            "img": "fig3_1.jpg"
+        },
+        {
+            "id": 140,
+            "img": "anarchism_noam.jpg"
+        },
+        {
+            "id": 141,
+            "img": "feminism-attack-better-poster.jpg"
+        },
+        {
+            "id": 142,
+            "img": "feminism-attack-more-graffitti.jpg"
+        },
+        {
+            "id": 144,
+            "author": "Pierre-Joseph Proudhon",
+            "text": "It is through separation that you will win: no representatives, and no candidates!"
+        },
+        {
+            "id": 145,
+            "author": "Jakub Bożydar Wiśniewski",
+            "extract": "The Pith of Life: Aphorisms in Honor of Liberty",
+            "text": "An anarchist is someone who rejects the curious notion that crimes become virtues as they grow in size."
+        },
+        {
+            "id": 146,
+            "author": "Mikhail Bakunin",
+            "text": "Every command slaps liberty in the face."
+        },
+        {
+            "id": 147,
+            "author": "Voltairine de Cleyre",
+            "text": "Anarchism … teaches the possibility of a society in which the needs of life may be fully supplied for all, and in which the opportunities for complete development of mind and body shall be the heritage of all … [It] teaches that the present unjust organisation of the production and distribution of wealth must finally be completely destroyed, and replaced by a system which will insure to each the liberty to work, without first seeking a master to whom he [or she] must surrender a tithe of his [or her] product, which will guarantee his liberty of access to the sources and means of production … Out of the blindly submissive, it makes the discontented; out of the unconsciously dissatisfied, it makes the consciously dissatisfied … Anarchism seeks to arouse the consciousness of oppression, the desire for a better society, and a sense of the necessity for unceasing warfare against capitalism and the State."
+        },
+        {
+            "id": 148,
+            "author": "Emma Goldman",
+            "extract": "Anarchism and Other Essays",
+            "text": "A thorough investigation would prove that nine crimes out of ten could be traced, directly or indirectly, to our economic and social iniquities, to our system of remorseless exploitation and robbery."
+        },
+        {
+            "id": 149,
+            "author": "Immanuel Kant",
+            "extract": "Anthropology from a Pragmatic Point of View",
+            "text": "Anarchy is law and freedom without force. Despotism is law and force without freedom. Barbarism force without freedom and law. Republicanism is force with freedom and law."
+        },
+        {
+            "id": 150,
+            "author": "Jakub Bożydar Wiśniewski",
+            "text": "If anarchy is chaos, and chaos is war, why wasn't a single war started by anarchists?"
+        },
+        {
+            "id": 151,
+            "author": "Emma Goldman",
+            "extract": "Anarchism and Other Essays",
+            "text": "If I were to give a summary of the tendency of our times, I would say, Quantity. The multitude, the mass spirit, dominates everywhere, destroying quality. Our entire life — production, politics, and education — rests on quantity, on numbers. The worker who once took pride in the thoroughness and quality of his work, has been replaced by brainless, incompetent automatons, who turn out enormous quantities of things, valueless to themselves, and generally injurious to the rest of mankind. Thus quantity, instead of adding to life’s comforts and peace, has merely increased man’s burden."
+        },
+        {
+            "id": 152,
+            "author": "Nikolai A. Berdyaev",
+            "extract": "Novoe Religioznoe Soznanie I Obshchestvennost'",
+            "text": "Control and violence that is best reflected in the state, are evil in themselves. In this knowledge lies the great truth of anarchism."
+        },
+        {
+            "id": 153,
+            "author": "Emma Goldman",
+            "extract": "Anarchism and Other Essays",
+            "text": "Order derived through submission and maintained by terror is not much of a safe guaranty; yet that is the only 'order' that governments have ever maintained."
+        },
+        {
+            "id": 154,
+            "author": "Proudhon J B V",
+            "text": "It is through separation that you will win: no representatives, and no candidates!"
+        },
+        {
+            "id": 155,
+            "author": "Pierre-Joseph Proudhon",
+            "extract": "What Is Property?",
+            "text": "It is better to enlighten men’s minds than to teach them to be obstinate in their prejudices."
+        },
+        {
+            "id": 156,
+            "author": "Jakub Bożydar Wiśniewski",
+            "text": "A libertarian is someone who graduated from thinking that there are problems with the state to realizing that the state is the problem."
+        },
+        {
+            "id": 157,
+            "author": "Thomas Pynchon",
+            "extract": "Against the Day",
+            "text": "Today even the dimmest of capitalist can see that the centralized nation-state, so promising an idea a generation ago, has lost all credibility with the population. Anarchism now is the idea that has seized hearts everywhere, some form of it will come to envelop every centrally governed society . . . If a nation wants to preserve itself, what other steps can it take, but mobilize and go to war? Central governments were never designed for peace. Their structure is line and staff, the same as an army. The national idea depends on war. A general European war, with ever striking worker a traitor, flags threatened, the sacred soils of homelands defiled, would be just the ticket to wipe Anarchism off the political map. The national idea would be reborn. One trembles at the pestilent forms that would rise up afterward, from the swamp of the ruined Europe."
+        },
+        {
+            "id": 158,
+            "author": "Ursula K. Le Guin",
+            "extract": "The Dispossessed",
+            "text": "To be whole is to be part; true voyage is return."
+        },
+        {
+            "id": 159,
+            "author": "Michel Leiris",
+            "text": "Eroticism releases, ever so slightly, great lightning flashes that, on occasion, reveal to us the true nature of a given organ, suddenly restoring both its whole reality and its hallucinatory force, while simultaneously installing as sovereign goddess the abolition of hierarchies- those hierarchies within which we habitually grade, for better or for worse, the different parts of the body."
+        },
+        {
+            "id": 160,
+            "author": "J. Paul Getty",
+            "extract": "How to Be Rich",
+            "text": "My evanescent anarchistic tendencies are purely classical. I use the word anarchist in the sense in which it was understood by the ancient Greeks. They, of course, accepted the anarchist as a fairly respectable--if somewhat vehement--opponent of government encroachment on the individual's rights to think and act freely. It is in this sense that I glimpse myself as an anarchist--regretting the growth of government and the ever-increasing trend toward regulation and, worst of all, standardization of human activity."
+        },
+        {
+            "id": 161,
+            "author": "Emma Goldman",
+            "extract": "Anarchism and Other Essays",
+            "text": "[M]an has as much liberty as he is willing to take."
+        },
+        {
+            "id": 162,
+            "author": "Ammon Hennacy",
+            "text": "To change the world by bullets or ballots was a useless procedure. If the workers ever did get a majority of either, they would have the envy and greed in their hearts and would be chained by these as much as by the chains of the master class. And the State which they would like to call a Cooperative Commonwealth would be based on power; the state would not wither away but would grow. Therefore the only revolution worthwhile was the one-man revolution within the heart. Each one could make this by himself and not need to wait on a majority."
+        },
+        {
+            "id": 163,
+            "author": "Roxanne Dunbar-Ortiz",
+            "text": "Independent radical women often live lonely lives if they expect equality."
+        },
+        {
+            "id": 164,
+            "author": "Nicholai Tselkove",
+            "text": "No matter what color you paint Anarchism, it's still a pig with lipstick on."
+        },
+        {
+            "id": 165,
+            "author": "Bakunin Mikhail Aleksandrovich",
+            "text": "Convençuts que llibertat sense Socialisme és privilegi i injustícia i que Socialisme sense llibertat és esclavitud i brutalitat."
+        },
+        {
+            "id": 166,
+            "author": "David Graeber",
+            "extract": "Revolutions in Reverse: Essays on Politics, Violence, Art, and Imagination",
+            "text": "Visible alternatives shatter the sense of inevitability, that the system must, necessarily, be patched together in the same form -- this is why it became such an imperative of global governance to stamp them out, or, when that's not possible, to ensure that no one knows about them. To become aware of it allows us to see everything we are already doing in a new light. To realize we're all already communists when working on a common projects, all already anarchists when we solve problems without recourse to lawyers or police, all revolutionaries when we make something genuinely new."
+        },
+        {
+            "id": 167,
+            "author": "Fernando Pessoa",
+            "text": "Sosyalizmin ve komünizmin hedefi emekçiyi yükseltmek değil, burjuvayı indirmektir. Emekçi ise aynı noktada, hatta söylediğim gibi, daha kötü noktada kalır. Burjuvanın yitirdiği şeyden yararlanan asla emekçi değildir. Anarşizm ise tersine bir sevgi rejimidir, sevilen insanlara baskı uygulamaya çalışılmaz"
+        },
+        {
+            "id": 168,
+            "author": "Poyntz Tyler",
+            "extract": "A Garden of Cucumbers",
+            "text": "To Pierre,' said Mr. Buckmaster, 'the Communists are of the Right. The far Right. He refers to them as 'those goddamned Bourbons.' Pierre is an anarchist. That's why he's so happy in his shoplifting--he feels it helps undermine the state"
         }
     ]
 }
