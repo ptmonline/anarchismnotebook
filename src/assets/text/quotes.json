@@ -328,6 +328,34 @@
         {
             "id": 59,
             "img": "images2.jpeg"
+        },
+        {
+            "id": 60,
+            "img": "image3.jpg"
+        },
+        {
+            "id": 61,
+            "img": "issue-4-cover-791x1024.jpg"
+        },
+        {
+            "id": 62,
+            "img": "focault.jpg"
+        },
+        {
+            "id": 63,
+            "img": "livetraceexample.png"
+        },
+        {
+            "id": 64,
+            "img": "newanarchrev16_90.jpg"
+        },
+        {
+            "id": 65,
+            "img": "emma-goldman-1.jpg"
+        },
+        {
+            "id": 66,
+            "img": "maxresdefault.jpg"
         }
     ]
 }
