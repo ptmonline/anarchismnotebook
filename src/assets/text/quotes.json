@@ -1210,6 +1210,166 @@
         {
             "id": 220,
             "img": "fig3_2.jpg"
+        },
+        {
+            "id": 221,
+            "img": "descarga.jpeg"
+        },
+        {
+            "id": 222,
+            "img": "descarga2.jpeg"
+        },
+        {
+            "id": 223,
+            "img": "wb.jpg"
+        },
+        {
+            "id": 224,
+            "img": "descarga3.jpg"
+        },
+        {
+            "id": 225,
+            "author": "Mikhail Bakunin",
+            "text": "If you took the most ardent revolutionary, vested him in absolute power, within a year he would be worse than the Tsar himself."
+        },
+        {
+            "id": 226,
+            "author": "Mikhail Bakunin",
+            "text": "The supreme law of the State is self-preservation at any cost. And since all States, ever since they came to exist upon the earth, have been condemned to perpetual struggle — a struggle against their own populations, whom they oppress and ruin, a struggle against all foreign States, every one of which can be strong only if the others are weak — and since the States cannot hold their own in this struggle unless they constantly keep on augmenting their power against their own subjects as well as against the neighborhood States — it follows that the supreme law of the State is the augmentation of its power to the detriment of internal liberty and external justice."
+        },
+        {
+            "id": 227,
+            "author": "Raoul Vaneigem",
+            "extract": "The Revolution of Everyday Life",
+            "text": "Daydreaming subverts the world."
+        },
+        {
+            "id": 228,
+            "author": "Lysander Spooner",
+            "text": "If the jury have no right to judge of the justice of a law of the government, they plainly can do nothing to protect the people against the oppressions of the government; for there are no oppressions which the government may not authorize by law."
+        },
+        {
+            "id": 229,
+            "author": "Murray Bookchin",
+            "extract": "Lucy Parsons: Freedom, Equality & Solidarity - Writings & Speeches, 1878-1937",
+            "text": "Anarchism has but one infallible, unchangeable motto, 'Freedom.' Freedom to discover any truth, freedom to develop, to live naturally and fully.",
+            "subtext": "— Lucy Parsons"
+        },
+        {
+            "id": 230,
+            "author": "Rudolf Rocker",
+            "extract": "Anarcho-Syndicalism: Theory and Practice",
+            "text": "Political rights do not originate in parliaments; they are, rather, forced upon parliaments from without. And even their enactment into law has for a long time been no guarantee of their security. Just as the employers always try to nullify every concession they had made to labor as soon as opportunity offered, as soon as any signs of weakness were observable in the workers’ organizations, so governments also are always inclined to restrict or to abrogate completely rights and freedoms that have been achieved if they imagine that the people will put up no resistance. Even in those countries where such things as freedom of the press, right of assembly, right of combination, and the like have long existed, governments are constantly trying to restrict those rights or to reinterpret them by juridical hair-splitting. Political rights do not exist because they have been legally set down on a piece of paper, but only when they have become the ingrown habit of a people, and when any attempt to impair them will meet with the violent resistance of the populace. Where this is not the case, there is no help in any parliamentary Opposition or any Platonic appeals to the constitution."
+        },
+        {
+            "id": 231,
+            "author": "Raoul Vaneigem,",
+            "extract": "The Revolution of Everyday Life",
+            "text": "Purchasing power is a license to purchase power. The old proletariat sold its labour power in order to subsist; what little leisure time it had was passed pleasantly enough in conversations, arguments, drinking, making love, wandering, celebrating and rioting. The new proletarian sells his labour power in order to consume. When he’s not flogging himself to death to get promoted in the labour hierarchy, he’s being persuaded to buy himself objects to distinguish himself in the social hierarchy. The ideology of consumption becomes the consumption of ideology."
+        },
+        {
+            "id": 232,
+            "author": "Renzo Novatore",
+            "text": "Mine is an enthusiastic and dionysian pessimism, like a flame that sets my vital exuberance ablaze, that mocks at any theoretical, scientific or moral prison."
+        },
+        {
+            "id": 233,
+            "author": "David Graeber",
+            "text": "Normally, when you challenge the conventional wisdom—that the current economic and political system is the only possible one—the first reaction you are likely to get is a demand for a detailed architectural blueprint of how an alternative system would work, down to the nature of its financial instruments, energy supplies, and policies of sewer maintenance. Next, you are likely to be asked for a detailed program of how this system will be brought into existence. Historically, this is ridiculous. When has social change ever happened according to someone’s blueprint? It’s not as if a small circle of visionaries in Renaissance Florence conceived of something they called “capitalism,” figured out the details of how the stock exchange and factories would someday work, and then put in place a program to bring their visions into reality. In fact, the idea is so absurd we might well ask ourselves how it ever occurred to us to imagine this is how change happens to begin."
+        },
+        {
+            "id": 234,
+            "author": "Bob Black",
+            "extract": "The Abolition of Work & Other Essays",
+            "text": "Work, then, institutionalizes homicide as a way of life. People think the Cambodians were crazy for exterminating themselves, but are we any different? The Pol Pot regime at least had a vision, however blurred, of an egalitarian society. We kill people in the six-figure range (at least) in order to sell Big Macs and Cadillacs to the survivors. Our forty or fifty thousand annual highway fatalities are victims, not martyrs. They died for nothing — or rather, they died for work. But work is nothing to die for."
+        },
+        {
+            "id": 235,
+            "author": "Renzo Novatore",
+            "text": "My motto is: walk expropriating and igniting, always leaving behind me howls of moral offenses and smoking trunks of old things."
+        },
+        {
+            "id": 236,
+            "author": "Colin Ward",
+            "extract": "Anarchy in Action",
+            "text": "The anarchist conclusion is that every kind of human activity should begin from what from what is local and immediate, should link in a network with no centre and no directing agency, hiving off new cells as the original grows."
+        },
+        {
+            "id": 237,
+            "author": "Colin Ward",
+            "extract": "Anarchy in Action",
+            "text": "The important question is, therefore, not whether anarchy is possible or not, but whether we can so enlarge the scope and influence of libertarian methods that they become the normal way in which human beings organise their society."
+        },
+        {
+            "id": 238,
+            "author": "Errico Malatesta",
+            "text": "we are, in any case, only one of the forces acting in society"
+        },
+        {
+            "id": 239,
+            "author": "Colin Ward",
+            "extract": "Anarchy in Action",
+            "text": "Anarchism does not demand the changing of the labels on the layers, it doesn't want different people on top, it wants us to clamber out underneath."
+        },
+        {
+            "id": 240,
+            "author": "Charles M. Doughty",
+            "extract": "Travels in Arabia Deserta, Volume 1",
+            "text": "There is a saying, if any stranger enquire of the first met of Maan, were it even a child, “Who is here the sheykh?” he would answer him “I am he."
+        },
+        {
+            "id": 241,
+            "author": "Renzo Novatore",
+            "extract": "Toward the Creative Nothing and other writings",
+            "text": "We have killed 'duty' so that our ardent desire for free brotherhood acquires heroic valor in life. We have killed 'pity' because we are barbarians capable of great love. We have killed 'altruism' because we are generous egoists. We have killed 'philanthropic solidarity' so that the social man unearths his most secret “I” and finds the strength of the 'Unique'."
+        },
+        {
+            "id": 242,
+            "author": "Cindy Milstein",
+            "text": "What if we opened ourselves to the gift?"
+        },
+        {
+            "id": 243,
+            "author": "Wolfi Landstreicher Individualism and Communism",
+            "text": "The social system of capital separates most people from the conditions of existence. This compels the vast majority to accept the mediations of work and commodity consumption in order to maintain a minimal existence at the expense of their lives, desires and dreams, of their individuality. The artificial economic scarcity imposed by capital leads to a competition that is often promoted in the United States as the basis of 'individualism' in spite of the fact that it creates nearly identical mediocre existences in which life is subsumed in survival... If all individuals are indeed to be free to create their lives and relations as they desire, it is necessary to create a world in which equality of access to the means and conditions of existence is reality. This requires the total destruction of economy—the end of property, commodity exchange and work. Thus we see that the generalized realization of individual freedom goes hand-in-hands with the best aspects of the anarcho-communist ideal and can only be achieved through a revolutionary transformation."
+        },
+        {
+            "id": 244,
+            "author": "Bruno Filippi",
+            "text": "I do not want to unite with the multitude of those who flatter the proletariat, excusing them, praising them, adorning them with wreathes. No, oh distinguished windbags, your verve disguises nothing. The “people” is always there, idiotic, cowardly, resigned. And I, who consider myself superior, desire to be so, and both the bourgeoisie and the proletariat will pay for my superiority."
+        },
+        {
+            "id": 245,
+            "author": "Mariana Calderón de la Barca",
+            "text": "Y no tienen ni puta idea lo que es estar en una mala condición de salud, ninguna de las 2. Pendejas."
+        },
+        {
+            "id": 246,
+            "author": "Salvador Dalí",
+            "text": "What is important is to spread confusion, not eliminate it."
+        },
+        {
+            "id": 247,
+            "author": "Laurie Halse Anderson",
+            "extract": "Speak",
+            "text": "If I ever form a clan, we'll be the anti-cheerleaders and walk under the bleacher forming mild acts of mayhem."
+        },
+        {
+            "id": 248,
+            "author": "Alan Bennett",
+            "extract": "Getting On",
+            "text": "We started off trying to set up a small anarchist community, but people wouldn't obey the rules."
+        },
+        {
+            "id": 249,
+            "author": "Eric Schmidt",
+            "text": "The Internet is the first thing that humanity has built that humanity doesn't understand, the largest experiment in anarchy that we have ever had."
+        },
+        {
+            "id": 250,
+            "author": "Kate Chopin",
+            "extract": "The Awakening",
+            "text": "The bird that would soar above the level plain of tradition and prejudice must have strong wings"
         }
     ]
 }
