@@ -3,12 +3,16 @@ page-home {
         background: whitesmoke;
         .header {
             h2 {
-                font-size: 3.3rem;
+                font-size: 4.3rem;
                 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
                 font-weight: bold;
                 letter-spacing: -0.3rem;
+                margin: 0 0 1rem;
             }
-            border-bottom: 4px solid black;
+            h3 {
+                font-weight: 400;
+            }
+            border-bottom: 6px solid black;
         }
         .fucking-center-container {
             width: 80%;

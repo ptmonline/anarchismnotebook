@@ -41,7 +41,7 @@ export class HomePage {
       (this.showQuote.subtext) ? this.subtext = this.showQuote.subtext : this.subtext = null;
     } else {
       this.src = './assets/imgs/' + this.showQuote.img;
-      this.getHeight();
+      // this.getHeight();
     }
   }
 
