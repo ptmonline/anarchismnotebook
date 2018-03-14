@@ -16,6 +16,7 @@ export class HomePage {
   public subtext: string;
   public extract: string;
   public src: any;
+  public rndClass: string;
 
   constructor(public navCtrl: NavController, private _api: Api) {
     this.init();
@@ -31,6 +32,8 @@ export class HomePage {
 
   chooseQuote() {
     this.showQuote = this.allQuotes.quotes[Math.floor(Math.random() * this.allQuotes.quotes.length)];
+    this.rndClass = "randclass randclass-" + (Math.floor(Math.random() * 2) + 1);
+    console.log(this.rndClass);
     console.log(this.showQuote);
     if (this.showQuote.img == null) {
       this.id = this.showQuote.id;

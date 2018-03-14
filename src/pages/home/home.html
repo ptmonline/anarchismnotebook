@@ -1,12 +1,10 @@
-<ion-content padding (click)="chooseQuote()">
-  <div *ngIf="!src">
+<ion-content padding (click)="chooseQuote()" [class]="rndClass">
+  <div *ngIf="!src" >
     <div class="header">
-      <!-- <h2>{{id}}.- {{author}}</h2>
-      <h3>{{extract}}</h3> -->
       <h2>{{author}}</h2>
     </div>
     <h3>{{extract}}</h3>
-    <div class="fucking-center-container">
+    <div class="center-container">
       <blockquote>
         <p>
           {{text}}
@@ -19,7 +17,7 @@
     <div class="header">
       <h2>Art, Create, Inspire</h2>
     </div>
-    <div class="fucking-center-container-img">
+    <div class="center-container-img">
       <img [src]="src" alt="" id="imgId">
     </div>
   </div>
