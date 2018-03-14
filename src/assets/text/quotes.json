@@ -59,39 +59,48 @@
         },
         {
             "id": 11,
-            "img": "education-godwin-clean.jpg"
+            "img": "education-godwin-clean.jpg",
+            "title": "Kathleen Hanna"
         },
         {
             "id": 12,
-            "img": "69310511-anarchist-wallpapers.jpg"
+            "img": "69310511-anarchist-wallpapers.jpg",
+            "title": "Kathleen Hanna"
         },
         {
             "id": 13,
-            "img": "0008814536_10.jpg"
+            "img": "0008814536_10.jpg",
+            "title": "Kathleen Hanna"
         },
         {
             "id": 14,
-            "img": "love-the-machine_hate-the-factory2.jpg"
+            "img": "love-the-machine_hate-the-factory2.jpg",
+            "title": "Kathleen Hanna"
         },
         {
             "id": 15,
-            "img": "main-qimg-69ae907b6b032af66ccaecfbfe97f289.png"
+            "img": "main-qimg-69ae907b6b032af66ccaecfbfe97f289.png",
+            "title": "Kathleen Hanna"
         },
         {
             "id": 16,
-            "img": "anarchism.jpg"
+            "img": "anarchism.jpg",
+            "title": "Kathleen Hanna"
         },
         {
             "id": 17,
-            "img": "anarchism-130403202926-phpapp01-thumbnail-4.jpg"
+            "img": "anarchism-130403202926-phpapp01-thumbnail-4.jpg",
+            "title": "Kathleen Hanna"
         },
         {
             "id": 18,
-            "img": "large_1089_anarmarxism3_0.jpg"
+            "img": "large_1089_anarmarxism3_0.jpg",
+            "title": "Kathleen Hanna"
         },
         {
             "id": 19,
-            "img": "Anarchism_In_the_May_Movement_In_France-1_1024x1024.jpg"
+            "img": "Anarchism_In_the_May_Movement_In_France-1_1024x1024.jpg",
+            "title": "Kathleen Hanna"
         },
         {
             "id": 20,
@@ -323,39 +332,48 @@
         },
         {
             "id": 58,
-            "img": "images.jpeg"
+            "img": "images.jpeg",
+            "title": "Kathleen Hanna"
         },
         {
             "id": 59,
-            "img": "images2.jpeg"
+            "img": "images2.jpeg",
+            "title": "Kathleen Hanna"
         },
         {
             "id": 60,
-            "img": "image3.jpg"
+            "img": "image3.jpg",
+            "title": "Kathleen Hanna"
         },
         {
             "id": 61,
-            "img": "issue-4-cover-791x1024.jpg"
+            "img": "issue-4-cover-791x1024.jpg",
+            "title": "Kathleen Hanna"
         },
         {
             "id": 62,
-            "img": "focault.jpg"
+            "img": "focault.jpg",
+            "title": "Kathleen Hanna"
         },
         {
             "id": 63,
-            "img": "livetraceexample.png"
+            "img": "livetraceexample.png",
+            "title": "Kathleen Hanna"
         },
         {
             "id": 64,
-            "img": "newanarchrev16_90.jpg"
+            "img": "newanarchrev16_90.jpg",
+            "title": "Kathleen Hanna"
         },
         {
             "id": 65,
-            "img": "emma-goldman-1.jpg"
+            "img": "emma-goldman-1.jpg",
+            "title": "Kathleen Hanna"
         },
         {
             "id": 66,
-            "img": "maxresdefault.jpg"
+            "img": "maxresdefault.jpg",
+            "title": "Kathleen Hanna"
         },
         {
             "id": 67,
@@ -499,15 +517,18 @@
         },
         {
             "id": 90,
-            "img": "the-black-flag.png"
+            "img": "the-black-flag.png",
+            "title": "Kathleen Hanna"
         },
         {
             "id": 91,
-            "img": "korea001.jpg"
+            "img": "korea001.jpg",
+            "title": "Anarchism in Korea"
         },
         {
             "id": 92,
-            "img": "Anarchy2nd_05.jpg"
+            "img": "Anarchy2nd_05.jpg",
+            "title": "Kathleen Hanna"
         },
         {
             "id": 93,
@@ -770,19 +791,23 @@
         },
         {
             "id": 139,
-            "img": "fig3_1.jpg"
+            "img": "fig3_1.jpg",
+            "title": "Kathleen Hanna"
         },
         {
             "id": 140,
-            "img": "anarchism_noam.jpg"
+            "img": "anarchism_noam.jpg",
+            "title": "Kathleen Hanna"
         },
         {
             "id": 141,
-            "img": "feminism-attack-better-poster.jpg"
+            "img": "feminism-attack-better-poster.jpg",
+            "title": "Kathleen Hanna"
         },
         {
             "id": 142,
-            "img": "feminism-attack-more-graffitti.jpg"
+            "img": "feminism-attack-more-graffitti.jpg",
+            "title": "Kathleen Hanna"
         },
         {
             "id": 144,
@@ -1198,42 +1223,42 @@
         {
             "id": 217,
             "img": "images4.jpeg",
-            "class": "image1"
+            "title": "unknow"
         },
         {
             "id": 218,
             "img": "images5.jpeg",
-            "class": "image2"
+            "title": "unknow"
         },
         {
             "id": 219,
             "img": "fig0_1.jpg",
-            "class": "image3"
+            "title": "The Vrankrijk legalized squat"
         },
         {
             "id": 220,
             "img": "fig3_2.jpg",
-            "class": "image4"
+            "title": "Leidsbezet"
         },
         {
             "id": 221,
             "img": "descarga.jpeg",
-            "class": "image5"
+            "title": "Kathleen Hanna"
         },
         {
             "id": 222,
             "img": "descarga2.jpeg",
-            "class": "image6"
+            "title": "Virginie Despentes"
         },
         {
             "id": 223,
             "img": "wb.jpg",
-            "class": "image7"
+            "title": "William S. Burroughs"
         },
         {
             "id": 224,
             "img": "descarga3.jpg",
-            "class": "image8"
+            "title": "Virginie Despentes"
         },
         {
             "id": 225,

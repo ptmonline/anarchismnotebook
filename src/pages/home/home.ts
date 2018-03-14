@@ -41,11 +41,12 @@ export class HomePage {
       this.author = this.showQuote.author;
       this.text = this.showQuote.text;
       this.src = null;
+      this.scrClass = null;
       (this.showQuote.extract) ? this.extract = this.showQuote.extract : this.extract = null;
       (this.showQuote.subtext) ? this.subtext = this.showQuote.subtext : this.subtext = null;
     } else {
       this.src = './assets/imgs/' + this.showQuote.img;
-      this.scrClass = this.showQuote.class;
+      this.scrClass = this.showQuote.title;
       this.rndClass = "bigimage bigimage-" + this.showQuote.id;
       console.log(this.rndClass);
       // this.getHeight();
