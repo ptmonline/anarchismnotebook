@@ -1197,35 +1197,43 @@
         },
         {
             "id": 217,
-            "img": "images4.jpeg"
+            "img": "images4.jpeg",
+            "class": "image1"
         },
         {
             "id": 218,
-            "img": "images5.jpeg"
+            "img": "images5.jpeg",
+            "class": "image2"
         },
         {
             "id": 219,
-            "img": "fig0_1.jpg"
+            "img": "fig0_1.jpg",
+            "class": "image3"
         },
         {
             "id": 220,
-            "img": "fig3_2.jpg"
+            "img": "fig3_2.jpg",
+            "class": "image4"
         },
         {
             "id": 221,
-            "img": "descarga.jpeg"
+            "img": "descarga.jpeg",
+            "class": "image5"
         },
         {
             "id": 222,
-            "img": "descarga2.jpeg"
+            "img": "descarga2.jpeg",
+            "class": "image6"
         },
         {
             "id": 223,
-            "img": "wb.jpg"
+            "img": "wb.jpg",
+            "class": "image7"
         },
         {
             "id": 224,
-            "img": "descarga3.jpg"
+            "img": "descarga3.jpg",
+            "class": "image8"
         },
         {
             "id": 225,

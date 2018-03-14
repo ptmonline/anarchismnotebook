@@ -17,6 +17,7 @@ export class HomePage {
   public extract: string;
   public src: any;
   public rndClass: string;
+  public scrClass: string;
 
   constructor(public navCtrl: NavController, private _api: Api) {
     this.init();
@@ -44,6 +45,9 @@ export class HomePage {
       (this.showQuote.subtext) ? this.subtext = this.showQuote.subtext : this.subtext = null;
     } else {
       this.src = './assets/imgs/' + this.showQuote.img;
+      this.scrClass = this.showQuote.class;
+      this.rndClass = "bigimage bigimage-" + this.showQuote.id;
+      console.log(this.rndClass);
       // this.getHeight();
     }
   }
