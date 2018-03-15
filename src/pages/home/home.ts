@@ -33,7 +33,6 @@ export class HomePage {
 
   chooseQuote() {
     this.showQuote = this.allQuotes.quotes[Math.floor(Math.random() * this.allQuotes.quotes.length)];
-    this.rndClass = "randclass randclass-" + (Math.floor(Math.random() * 2) + 1);
     console.log(this.rndClass);
     console.log(this.showQuote);
     if (this.showQuote.img == null) {
@@ -44,6 +43,7 @@ export class HomePage {
       this.scrClass = null;
       (this.showQuote.extract) ? this.extract = this.showQuote.extract : this.extract = null;
       (this.showQuote.subtext) ? this.subtext = this.showQuote.subtext : this.subtext = null;
+      (this.showQuote.id >= 251) ? this.rndClass = "randclass randclass-3" : this.rndClass = this.getRandomClass();
     } else {
       this.src = './assets/imgs/' + this.showQuote.img;
       this.scrClass = this.showQuote.title;
@@ -51,6 +51,10 @@ export class HomePage {
       console.log(this.rndClass);
       // this.getHeight();
     }
+  }
+
+  getRandomClass(){
+    return "randclass randclass-" + (Math.floor(Math.random() * 2) + 1);
   }
 
   getHeight() {
