@@ -11,12 +11,7 @@ export class HomePage {
 
   public allQuotes: any;
   public showQuote: Api.Client.Quote;
-  public author: string;
-  public text: string;
-  public id: number;
-  public subtext: string;
-  public extract: string;
-  public src: any;
+  public src: boolean;
   public rndClass: string;
   public scrClass: string;
 
@@ -32,33 +27,28 @@ export class HomePage {
     })
   }
 
-  chooseQuote() {
+  chooseQuote(): void {
     this.showQuote = this.allQuotes.quotes[Math.floor(Math.random() * this.allQuotes.quotes.length)];
-    console.log(this.rndClass);
-    console.log(this.showQuote);
     if (this.showQuote.img == null) {
-      this.id = this.showQuote.id;
-      this.author = this.showQuote.author;
-      this.text = this.showQuote.text;
+      this.src = false;
       this.scrClass = null;
-      (this.showQuote.extract) ? this.extract = this.showQuote.extract : this.extract = null;
-      (this.showQuote.subtext) ? this.subtext = this.showQuote.subtext : this.subtext = null;
       (this.showQuote.id >= 251) ? this.rndClass = "randclass randclass-3" : this.rndClass = this.getRandomClass();
     } else {
+      this.src = true;
       this.scrClass = this.showQuote.title;
       this.rndClass = "bigimage bigimage-" + this.showQuote.id;
       console.log(this.rndClass);
     }
   }
 
-  getRandomClass(){
+  getRandomClass() {
     return "randclass randclass-" + (Math.floor(Math.random() * 2) + 1);
   }
 
   getHeight() {
     setTimeout(() => {
       let imageHeight = document.getElementById('imgId');
-      let newHeight = ((window.innerHeight - imageHeight.clientHeight) / 2) - 16 ;
+      let newHeight = ((window.innerHeight - imageHeight.clientHeight) / 2) - 16;
       imageHeight.style.marginTop = newHeight.toString() + 'px';
     }, 50)
   }

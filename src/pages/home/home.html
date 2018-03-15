@@ -1,14 +1,14 @@
-<ion-content padding (click)="chooseQuote()" [class]="rndClass">
+<ion-content padding (click)="chooseQuote()" [class]="rndClass" *ngIf="showQuote">
   <div *ngIf="!src" >
     <div class="header">
-      <h2>{{author}}</h2>
+      <h2>{{showQuote.author}}</h2>
     </div>
-    <h3>{{extract}}</h3>
+    <h3 *ngIf="showQuote.extract">{{showQuote.extract}}</h3>
     <div class="center-container">
       <blockquote>
         <p>
-          {{text}}
-          <span *ngIf="subtext">{{subtext}}</span>
+          {{showQuote.text}}
+          <span *ngIf="showQuote.subtext">{{showQuote.subtext}}</span>
         </p>
       </blockquote>
     </div>
