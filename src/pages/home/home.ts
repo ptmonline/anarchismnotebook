@@ -6,10 +6,11 @@ import { Api } from '../../providers/api';
   selector: 'page-home',
   templateUrl: 'home.html'
 })
+
 export class HomePage {
 
   public allQuotes: any;
-  public showQuote: any;
+  public showQuote: Api.Client.Quote;
   public author: string;
   public text: string;
   public id: number;
@@ -39,17 +40,14 @@ export class HomePage {
       this.id = this.showQuote.id;
       this.author = this.showQuote.author;
       this.text = this.showQuote.text;
-      this.src = null;
       this.scrClass = null;
       (this.showQuote.extract) ? this.extract = this.showQuote.extract : this.extract = null;
       (this.showQuote.subtext) ? this.subtext = this.showQuote.subtext : this.subtext = null;
       (this.showQuote.id >= 251) ? this.rndClass = "randclass randclass-3" : this.rndClass = this.getRandomClass();
     } else {
-      this.src = './assets/imgs/' + this.showQuote.img;
       this.scrClass = this.showQuote.title;
       this.rndClass = "bigimage bigimage-" + this.showQuote.id;
       console.log(this.rndClass);
-      // this.getHeight();
     }
   }
 
