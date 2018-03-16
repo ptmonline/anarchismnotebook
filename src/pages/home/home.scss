@@ -12,7 +12,7 @@ page-home {
                 font-family: $app-font;
                 font-weight: bold;
                 text-align: right;
-                letter-spacing: -0.3rem;
+                letter-spacing: -0.1rem;
                 margin: 0;
                 margin-bottom: 0.5rem;
                 color: $option-2-font-color;
@@ -53,7 +53,7 @@ page-home {
             content: "\201C";
             font-size: 80px;
             position: absolute;
-            left: -40px;
+            left: -45px;
             top: -30px; // color: black;
         }
         &-img {
@@ -90,7 +90,7 @@ page-home {
             .header {
                 position: absolute;
                 bottom: 20px;
-                left: 55px;
+                left: 50px;
                 h2{
                     color: $option-1-font-color;
                 }
@@ -106,7 +106,7 @@ page-home {
             h3 {
                 position: absolute;
                 bottom: 300px;
-                left: 55px;
+                left: 50px;
                 color: $option-1-font-color;
             }
             blockquote:before{

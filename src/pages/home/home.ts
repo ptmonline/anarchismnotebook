@@ -34,7 +34,7 @@ export class HomePage {
       this.scrClass = null;
       let quoter = this.showQuote.text;
       console.log('LENGTH: ', quoter.length);
-      if (quoter.length <= 350 && this.showQuote.extract != null) {
+      if (quoter.length <= 250 && this.showQuote.extract != null) {
         this.rndClass = this.getRandomClass2();
       }else{
         this.rndClass = this.getRandomClass();
