@@ -86,9 +86,34 @@ page-home {
             }
         }
         &-3 {
-            background: yellow;
+            background: $option-1-background-color;
             .header {
-                border-bottom: 9px solid $option-2-background-color;
+                position: absolute;
+                bottom: 20px;
+                left: 55px;
+                h2{
+                    color: $option-1-font-color;
+                }
+            }
+            .center-container {
+                position: absolute;
+                top: 10px;
+                left: 10px;
+                width: 100%;
+                height: 30%;
+                margin: 10% auto;
+            }
+            h3 {
+                position: absolute;
+                bottom: 300px;
+                left: 55px;
+                color: $option-1-font-color;
+            }
+            blockquote:before{
+                color: #5f5c5c;
+                left: -29px;
+                top: -10px;
+                font-size: 41px;
             }
         }
         &-4 {
@@ -110,6 +135,7 @@ page-home {
             }
             h3{
                 font-weight: 300;
+                padding-right:3rem;
             }
             .center-container {
                 margin: 30% auto 10%;

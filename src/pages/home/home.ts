@@ -34,7 +34,12 @@ export class HomePage {
       this.scrClass = null;
       let quoter = this.showQuote.text;
       console.log('LENGTH: ', quoter.length);
-      (quoter.length <= 350) ? this.rndClass = "randclass randclass-4" : this.rndClass = this.getRandomClass();
+      if (quoter.length <= 350 && this.showQuote.extract != null) {
+        this.rndClass = this.getRandomClass2();
+      }else{
+        this.rndClass = this.getRandomClass();
+      }
+      console.log(this.rndClass);
       setTimeout(()=>{
         this.getHeight();
       }, 100)
@@ -48,6 +53,10 @@ export class HomePage {
 
   getRandomClass() {
     return "randclass randclass-" + (Math.floor(Math.random() * 2) + 1);
+  }
+
+  getRandomClass2() {
+    return "randclass randclass-" + (Math.floor(Math.random() * 2) + 3);
   }
 
   getHeight() {
