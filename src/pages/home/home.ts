@@ -32,7 +32,12 @@ export class HomePage {
     if (this.showQuote.img == null) {
       this.src = false;
       this.scrClass = null;
-      (this.showQuote.id >= 251) ? this.rndClass = "randclass randclass-3" : this.rndClass = this.getRandomClass();
+      let quoter = this.showQuote.text;
+      console.log('LENGTH: ', quoter.length);
+      (quoter.length <= 350) ? this.rndClass = "randclass randclass-4" : this.rndClass = this.getRandomClass();
+      setTimeout(()=>{
+        this.getHeight();
+      }, 100)
     } else {
       this.src = true;
       this.scrClass = this.showQuote.title;
@@ -46,11 +51,12 @@ export class HomePage {
   }
 
   getHeight() {
-    setTimeout(() => {
-      let imageHeight = document.getElementById('imgId');
-      let newHeight = ((window.innerHeight - imageHeight.clientHeight) / 2) - 16;
-      imageHeight.style.marginTop = newHeight.toString() + 'px';
-    }, 50)
+    
+      let quoteHeight = document.getElementById('center-quote');
+      console.log(quoteHeight.clientHeight)
+      // let newHeight = ((window.innerHeight - quoteHeight.clientHeight) / 2) - 16;
+      // imageHeight.style.marginTop = newHeight.toString() + 'px';
+ 
   }
 
 }
