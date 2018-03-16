@@ -27,9 +27,14 @@ export class HomePage {
     })
   }
 
+  swipeEvent(ev?: any){
+    if(ev) console.log('DIRECTION: ',ev.direction);
+    if(ev.direction == 2) this.chooseQuote();
+  }
+
   chooseQuote(): void {
+
     this.showQuote = this.allQuotes.quotes[Math.floor(Math.random() * this.allQuotes.quotes.length)];
-    if (this.showQuote.img == null) {
       this.src = false;
       this.scrClass = null;
       let quoter = this.showQuote.text;
@@ -40,15 +45,7 @@ export class HomePage {
         this.rndClass = this.getRandomClass();
       }
       console.log(this.rndClass);
-      setTimeout(()=>{
-        this.getHeight();
-      }, 100)
-    } else {
-      this.src = true;
-      this.scrClass = this.showQuote.title;
-      this.rndClass = "bigimage bigimage-" + this.showQuote.id;
-      console.log(this.rndClass);
-    }
+    
   }
 
   getRandomClass() {
