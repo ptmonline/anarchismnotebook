@@ -14,7 +14,9 @@ export class HomePage {
   public src: boolean;
   public rndClass: string;
   public scrClass: string;
+  public quotesArrayInit: any = [];
   public quotesArray: any = [];
+  public n: number = 0;
 
   constructor(public navCtrl: NavController, private _api: Api) {
     this.init();
@@ -23,43 +25,48 @@ export class HomePage {
   init() {
     this._api.get('quotes.json').subscribe((data) => {
       this.allQuotes = data;
-      this.chooseQuote();
-      console.log(this.allQuotes.quotes);
+      this.quotesArrayInit = this.shuffle(this.allQuotes.quotes);
+      this.chooseQuoteInit();
     })
+  }
+
+  chooseQuoteInit(){
+    this.showQuote = this.quotesArrayInit[this.n];
+    this.quotesArray.push(this.showQuote.id);
+    this.buildQuote();
+  }
+
+  nextQuote(){
+    this.n += 1;
+    this.showQuote = this.quotesArrayInit[this.n];
+    if (this.quotesArray.indexOf(this.showQuote.id) < 0) this.quotesArray.push(this.showQuote.id)
+    this.buildQuote();
+  }
+  prevQuote(){
+    this.n -= 1;
+    if(this.n >= 0) {
+      this.showQuote = this.quotesArrayInit[this.n];
+    } else {
+      this.n = 0;
+      this.showQuote = this.quotesArrayInit[this.n];
+    }
+    this.buildQuote();
   }
 
   swipeEvent(ev?: any){
     if(ev) console.log('DIRECTION: ',ev.direction);
-    if(ev.direction == 2) this.chooseQuote();
-    if(ev.direction == 4) this.choosePreviousQuote();
+    if(ev.direction == 2) this.nextQuote();
+    if(ev.direction == 4) this.prevQuote();
   }
 
-  chooseQuote(): void {
-
-    this.showQuote = this.allQuotes.quotes[Math.floor(Math.random() * this.allQuotes.quotes.length)];
-    this.quotesArray.push(this.showQuote.id);
-    console.log(this.quotesArray)
-      this.src = false;
-      this.scrClass = null;
-      let quoter = this.showQuote.text;
-      console.log('LENGTH: ', quoter.length);
-      if (quoter.length <= 250 && this.showQuote.extract != null) {
-        this.rndClass = this.getRandomClass2();
-      }else{
-        this.rndClass = this.getRandomClass();
-      }
-      console.log(this.rndClass);
-    
-  }
-
-  choosePreviousQuote(){
-    if(this.quotesArray == null || this.quotesArray == 'empty'){
-      return null;
+  buildQuote(){
+    this.src = false;
+    this.scrClass = null;
+    let quoter = this.showQuote.text;
+    if (quoter.length <= 250 && this.showQuote.extract != null) {
+      this.rndClass = this.getRandomClass2();
     }else{
-      console.log('QUOTE PREV: ', this.quotesArray[this.quotesArray.length -1]);
-      this.showQuote = this.allQuotes.quotes[this.quotesArray.length -2];
-      console.log('PREV: ', this.showQuote);
-      this.quotesArray.pop();
+      this.rndClass = this.getRandomClass();
     }
   }
 
@@ -74,10 +81,22 @@ export class HomePage {
   getHeight() {
     
       let quoteHeight = document.getElementById('center-quote');
-      console.log(quoteHeight.clientHeight)
-      // let newHeight = ((window.innerHeight - quoteHeight.clientHeight) / 2) - 16;
-      // imageHeight.style.marginTop = newHeight.toString() + 'px';
+      console.log(quoteHeight.clientHeight);
  
   }
+
+  shuffle(array: string[]) {
+        let currentIndex = array.length,
+            temporaryValue,
+            randomIndex;
+        while (0 !== currentIndex) {
+            randomIndex = Math.floor(Math.random() * currentIndex);
+            currentIndex -= 1;
+            temporaryValue = array[currentIndex];
+            array[currentIndex] = array[randomIndex];
+            array[randomIndex] = temporaryValue;
+        }
+        return array;
+    }
 
 }
