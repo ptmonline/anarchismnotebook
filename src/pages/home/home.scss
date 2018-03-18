@@ -103,6 +103,8 @@ page-home {
                 left: 50px;
                 h2{
                     color: $option-1-font-color;
+                    padding-right: 3rem;
+                    text-align: left;
                 }
             }
             .center-container {
@@ -158,6 +160,30 @@ page-home {
                 p {
                     font-size: 1.8rem;
                 }
+            }
+        }
+
+        &-5{
+            background: $option-1-background-color;
+            .center-container {
+                margin: 30% auto 0%;
+            }
+            .header{
+                padding-left: 4rem;
+                
+                h2{
+                    color: black;
+                    text-align: left;
+                    font-size: 2rem;
+                }
+            }
+            h3{
+                margin-top: 20%;
+                font-size: 1.5rem;
+                line-height: 2.5rem;
+                font-weight: 300;
+                text-align: right;
+                border-top: 8px solid black;
             }
         }
     }
