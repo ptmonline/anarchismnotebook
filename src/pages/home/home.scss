@@ -1,19 +1,21 @@
-$app-font : 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+$app-font: 'Segoe UI',
+Tahoma,
+Geneva,
+Verdana,
+sans-serif;
 $option-1-background-color: whitesmoke;
 $option-2-background-color: #2b2a2a;
 $option-1-font-color: #2b2a2a;
 $option-2-font-color: #dedede;
-
 page-home {
-    .swipercontainer{
+    .swipercontainer {
         position: absolute;
-        top:0;
-        left:0;
+        top: 0;
+        left: 0;
         display: block;
         width: 100%;
         height: 100%;
         z-index: 9;
-        // background: red;
     }
     .randclass {
         .header {
@@ -55,26 +57,22 @@ page-home {
         }
         blockquote {
             position: relative;
-        }
-        blockquote:before {
-            font-family: Georgia, serif;
-            display: block;
-            padding-left: 10px;
-            content: "\201C";
-            font-size: 80px;
-            position: absolute;
-            left: -45px;
-            top: -30px; // color: black;
-        }
-        &-img {
-            margin-top: 1rem;
-            text-align: center;
+            &:before {
+                font-family: Georgia, serif;
+                display: block;
+                padding-left: 10px;
+                content: "\201C";
+                font-size: 80px;
+                position: absolute;
+                left: -45px;
+                top: -30px;
+            }
         }
         &-1 {
             background: $option-1-background-color;
             .header {
                 border-bottom: 9px solid $option-2-background-color;
-                h2{
+                h2 {
                     color: $option-1-font-color;
                 }
             }
@@ -83,16 +81,35 @@ page-home {
             }
         }
         &-2 {
-            background: #181818;
-            color: $option-1-background-color;
+            background: $option-1-background-color;
             .header {
-                border-bottom: 9px solid $option-2-font-color;
-                h2{
-                    color: $option-2-font-color;
+                h2 {
+                    font-size: 1.8rem;
+                    color: $option-1-font-color;
                 }
             }
-            blockquote:before {
-                color: $option-1-background-color;
+            blockquote {
+                margin-right: 0;
+                &:before {
+                    display: none;
+                }
+            }
+            h3 {
+                text-align: right;
+            }
+            .center-container {
+                text-align: right;
+            }
+            p {
+                font-weight: 300;
+                font-size: 2.3rem;
+                span {
+                    font-weight: 400;
+                    display: inline-block;
+                    font-size: 2.3rem;
+                    font-style: normal;
+                    margin:0;
+                }
             }
         }
         &-3 {
@@ -101,7 +118,7 @@ page-home {
                 position: absolute;
                 bottom: 20px;
                 left: 50px;
-                h2{
+                h2 {
                     color: $option-1-font-color;
                     padding-right: 3rem;
                     text-align: left;
@@ -121,7 +138,7 @@ page-home {
                 left: 50px;
                 color: $option-1-font-color;
             }
-            blockquote:before{
+            blockquote:before {
                 color: #5f5c5c;
                 left: -29px;
                 top: -10px;
@@ -131,7 +148,7 @@ page-home {
         &-4 {
             background: $option-1-background-color;
             [padding],
-            .scroll-content{
+            .scroll-content {
                 padding-right: 0 !important;
                 padding-left: 5rem !important;
             }
@@ -145,9 +162,9 @@ page-home {
                     color: $option-1-font-color;
                 }
             }
-            h3{
+            h3 {
                 font-weight: 300;
-                padding-right:3rem;
+                padding-right: 3rem;
             }
             .center-container {
                 margin: 30% auto 10%;
@@ -162,22 +179,20 @@ page-home {
                 }
             }
         }
-
-        &-5{
+        &-5 {
             background: $option-1-background-color;
             .center-container {
                 margin: 30% auto 0%;
             }
-            .header{
+            .header {
                 padding-left: 4rem;
-                
-                h2{
+                h2 {
                     color: black;
                     text-align: left;
                     font-size: 2rem;
                 }
             }
-            h3{
+            h3 {
                 margin-top: 20%;
                 font-size: 1.5rem;
                 line-height: 2.5rem;

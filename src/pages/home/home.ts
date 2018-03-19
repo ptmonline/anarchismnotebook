@@ -18,6 +18,7 @@ export class HomePage {
   public quotesArray: any = [];
   public n: number = 0;
   public state4: boolean = false;
+  public transformedquote: string;
 
   constructor(public navCtrl: NavController, private _api: Api, public _quoteHelper: QuoteHelper) {
     this.init();
@@ -65,9 +66,22 @@ export class HomePage {
       } else {
         this.state4 = false;
       }
+      this.transformedquote = null
     } else {
       this.rndClass = this._quoteHelper.getRandomClass(2, 1);
       this.state4 = false;
+      this.transformedquote = null;
+      if(this.rndClass === 'randclass randclass-2'){
+        let textlong = this.showQuote.text;
+        let textarray = textlong.split(" ");
+        let x = 0;
+        while(x <= (Math.floor(Math.random() * textarray.length)/ 2)){
+          let n = Math.floor(Math.random() * textarray.length)
+          textarray[n] = '<span>'+textarray[n]+'</span>';
+          x++;
+          this.transformedquote = textarray.join(' ');
+        }
+      }
     }
   }
 }

@@ -7,10 +7,11 @@
     <h3 *ngIf="showQuote.extract">{{showQuote.extract}}</h3>
     <div class="center-container" id="center-quote">
       <blockquote>
-        <p>
+        <p id="text_id" *ngIf="!transformedquote">
           {{showQuote.text}}
           <span *ngIf="showQuote.subtext">{{showQuote.subtext}}</span>
         </p>
+        <p id="text_id" *ngIf="transformedquote"[innerHTML]="transformedquote"></p>
       </blockquote>
     </div>
   </div>
