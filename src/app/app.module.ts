@@ -8,6 +8,7 @@ import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
 import { Api } from '../providers/providers.module';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
+import { QuoteHelper } from '../helpers/quote.helper';
 
 @NgModule({
   declarations: [
@@ -29,6 +30,7 @@ import { HttpClient, HttpClientModule } from '@angular/common/http';
     SplashScreen,
     Api,
     HttpClient,
+    QuoteHelper,
     {provide: ErrorHandler, useClass: IonicErrorHandler}
   ]
 })

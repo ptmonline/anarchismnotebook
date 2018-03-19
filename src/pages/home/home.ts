@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
 import { Api } from '../../providers/api';
+import { QuoteHelper } from '../../helpers/quote.helper';
 
 @Component({
   selector: 'page-home',
@@ -18,14 +19,14 @@ export class HomePage {
   public n: number = 0;
   public state4: boolean = false;
 
-  constructor(public navCtrl: NavController, private _api: Api) {
+  constructor(public navCtrl: NavController, private _api: Api, public _quoteHelper: QuoteHelper) {
     this.init();
   }
 
   init() {
     this._api.get('quotes.json').subscribe((data) => {
       this.allQuotes = data;
-      this.quotesArrayInit = this.shuffle(this.allQuotes.quotes);
+      this.quotesArrayInit = this._quoteHelper.shuffle(this.allQuotes.quotes);
       this.chooseQuoteInit();
     })
   }
@@ -50,7 +51,6 @@ export class HomePage {
   }
 
   swipeEvent(ev?: any) {
-    if (ev) console.log('DIRECTION: ', ev.direction);
     if (ev.direction == 2) this.nextQuote();
     if (ev.direction == 4) this.prevQuote();
   }
@@ -60,47 +60,15 @@ export class HomePage {
     this.scrClass = null;
     let quoter = this.showQuote.text;
     if (quoter.length <= 250 && this.showQuote.extract != null) {
-      this.rndClass = this.getRandomClass2();
-      console.log(this.rndClass);
+      this.rndClass = this._quoteHelper.getRandomClass2();
       if (this.rndClass == 'randclass randclass-5') {
         this.state4 = true;
-        console.log("STATE 4 ACTIVATED");
       } else {
         this.state4 = false;
       }
     } else {
-      this.rndClass = this.getRandomClass();
+      this.rndClass = this._quoteHelper.getRandomClass();
       this.state4 = false;
     }
   }
-
-  getRandomClass() {
-    return "randclass randclass-" + (Math.floor(Math.random() * 2) + 1);
-  }
-
-  getRandomClass2() {
-    return "randclass randclass-" + (Math.floor(Math.random() * 3) + 3);
-  }
-
-  getHeight() {
-
-    let quoteHeight = document.getElementById('center-quote');
-    console.log(quoteHeight.clientHeight);
-
-  }
-
-  shuffle(array: string[]) {
-    let currentIndex = array.length,
-      temporaryValue,
-      randomIndex;
-    while (0 !== currentIndex) {
-      randomIndex = Math.floor(Math.random() * currentIndex);
-      currentIndex -= 1;
-      temporaryValue = array[currentIndex];
-      array[currentIndex] = array[randomIndex];
-      array[randomIndex] = temporaryValue;
-    }
-    return array;
-  }
-
 }
