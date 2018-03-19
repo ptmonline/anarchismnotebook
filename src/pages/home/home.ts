@@ -31,43 +31,42 @@ export class HomePage {
     })
   }
 
-  chooseQuoteInit() {
+  chooseQuoteInit(): void {
     this.showQuote = this.quotesArrayInit[this.n];
     this.quotesArray.push(this.showQuote.id);
     this.buildQuote();
   }
 
-  nextQuote() {
+  nextQuote(): void {
     this.n += 1;
     this.showQuote = this.quotesArrayInit[this.n];
     if (this.quotesArray.indexOf(this.showQuote.id) < 0) this.quotesArray.push(this.showQuote.id);
     console.log(this.quotesArray);
     this.buildQuote();
   }
-  prevQuote() {
+  prevQuote(): void {
     this.n -= 1;
     (this.n >= 0) ? this.showQuote = this.quotesArrayInit[this.n] : this.showQuote = this.quotesArrayInit[0]
     this.buildQuote();
   }
 
-  swipeEvent(ev?: any) {
+  swipeEvent(ev?: any): void {
     if (ev.direction == 2) this.nextQuote();
     if (ev.direction == 4) this.prevQuote();
   }
 
-  buildQuote() {
-
+  buildQuote(): void {
     this.scrClass = null;
     let quoter = this.showQuote.text;
     if (quoter.length <= 250 && this.showQuote.extract != null) {
-      this.rndClass = this._quoteHelper.getRandomClass2();
+      this.rndClass = this._quoteHelper.getRandomClass(3,3);
       if (this.rndClass == 'randclass randclass-5') {
         this.state4 = true;
       } else {
         this.state4 = false;
       }
     } else {
-      this.rndClass = this._quoteHelper.getRandomClass();
+      this.rndClass = this._quoteHelper.getRandomClass(2, 1);
       this.state4 = false;
     }
   }

@@ -4,7 +4,7 @@ import { Injectable } from "@angular/core";
 export class QuoteHelper {
     constructor() { }
 
-    shuffle(array: string[]) {
+    shuffle(array: string[]): string[] {
         let currentIndex = array.length,
             temporaryValue,
             randomIndex;
@@ -18,18 +18,12 @@ export class QuoteHelper {
         return array;
     }
 
-    getRandomClass() {
-        return "randclass randclass-" + (Math.floor(Math.random() * 2) + 1);
-    }
-
-    getRandomClass2() {
-        return "randclass randclass-" + (Math.floor(Math.random() * 3) + 3);
+    getRandomClass(length?: number, added?: number): string {
+        return "randclass randclass-" + (Math.floor(Math.random() * length) + added);
     }
 
     getHeight() {
-
         let quoteHeight = document.getElementById('center-quote');
         console.log(quoteHeight.clientHeight);
-
     }
 }
