@@ -26,4 +26,15 @@ export class QuoteHelper {
         let quoteHeight = document.getElementById('center-quote');
         console.log(quoteHeight.clientHeight);
     }
+
+    createSpanClass(content: string){ //REVIEW TO DO
+        let textlong = content;
+        let textarray = textlong.split(" ");
+        let x = 0;
+        while(x <= (Math.floor(Math.random() * textarray.length)/ 2)){
+          let n = Math.floor(Math.random() * textarray.length)
+          textarray[n] = '<span>'+textarray[n]+'</span>';
+          x++;
+        }
+    }
 }
