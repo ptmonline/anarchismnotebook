@@ -90,6 +90,8 @@ page-home {
             }
             blockquote {
                 margin-right: 0;
+                border-right: 6px solid $option-1-font-color;
+                padding-right: 1rem;
                 &:before {
                     display: none;
                 }
@@ -137,6 +139,7 @@ page-home {
                 bottom: 300px;
                 left: 50px;
                 color: $option-1-font-color;
+                padding-right: .5rem;
             }
             blockquote:before {
                 color: #5f5c5c;
