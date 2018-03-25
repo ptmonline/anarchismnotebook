@@ -1,8 +1,9 @@
-$app-font: 'Segoe UI',
-Tahoma,
-Geneva,
-Verdana,
-sans-serif;
+// $app-font: 'Segoe UI',
+// Tahoma,
+// Geneva,
+// Verdana,
+// sans-serif;
+$app-font: "Roboto", "Helvetica Neue", sans-serif;
 $option-1-background-color: whitesmoke;
 $option-2-background-color: #2b2a2a;
 $option-1-font-color: #2b2a2a;
@@ -82,6 +83,7 @@ page-home {
         }
         &-2 {
             background: $option-1-background-color;
+            
             .header {
                 h2 {
                     font-size: 1.8rem;
@@ -105,6 +107,7 @@ page-home {
             p {
                 font-weight: 300;
                 font-size: 2.3rem;
+                font-family: "Roboto", "Helvetica Neue", sans-serif;
                 span {
                     font-weight: 400;
                     display: inline-block;
@@ -212,124 +215,4 @@ page-home {
 
 .scroll-content {
     overflow-y: auto;
-}
-
-.image-title {
-    position: absolute;
-    bottom: 3.2rem;
-    right: 1.2rem;
-    text-align: right;
-    font-size: 5rem;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: bold;
-    letter-spacing: -0.3rem;
-    margin: 0;
-    margin-bottom: 0.5rem;
-    width: 240px;
-    line-height: 3.8rem;
-    color: dimgrey;
-}
-
-.bigimage {
-    background-size: cover;
-    background-position: center;
-    &-11 {
-        background-image: url('../assets/imgs/education-godwin-clean.jpg');
-    }
-    &-12 {
-        background-image: url('../assets/imgs/69310511-anarchist-wallpapers.jpg');
-    }
-    &-13 {
-        background-image: url('../assets/imgs/0008814536_10.jpg');
-    }
-    &-14 {
-        background-image: url('../assets/imgs/love-the-machine_hate-the-factory2.jpg');
-    }
-    &-15 {
-        background-image: url('../assets/imgs/main-qimg-69ae907b6b032af66ccaecfbfe97f289.png');
-    }
-    &-16 {
-        background-image: url('../assets/imgs/anarchism.jpg');
-    }
-    &-17 {
-        background-image: url('../assets/imgs/anarchism-130403202926-phpapp01-thumbnail-4.jpg');
-    }
-    &-18 {
-        background-image: url('../assets/imgs/large_1089_anarmarxism3_0.jpg');
-    }
-    &-19 {
-        background-image: url('../assets/imgs/Anarchism_In_the_May_Movement_In_France-1_1024x1024.jpg');
-    }
-    &-58 {
-        background-image: url('../assets/imgs/images.jpeg');
-    }
-    &-59 {
-        background-image: url('../assets/imgs/images2.jpeg');
-    }
-    &-60 {
-        background-image: url('../assets/imgs/image3.jpg');
-    }
-    &-61 {
-        background-image: url('../assets/imgs/issue-4-cover-791x1024.jpg');
-    }
-    &-62 {
-        background-image: url('../assets/imgs/focault.jpg');
-    }
-    &-63 {
-        background-image: url('../assets/imgs/livetraceexample.png');
-    }
-    &-64 {
-        background-image: url('../assets/imgs/newanarchrev16_90.jpg');
-    }
-    &-65 {
-        background-image: url('../assets/imgs/emma-goldman-1.jpg');
-    }
-    &-66 {
-        background-image: url('../assets/imgs/maxresdefault.jpg');
-    }
-    &-90 {
-        background-image: url('../assets/imgs/the-black-flag.png');
-    }
-    &-91 {
-        background-image: url('../assets/imgs/korea001.jpg');
-    }
-    &-92 {
-        background-image: url('../assets/imgs/Anarchy2nd_05.jpg');
-    }
-    &-139 {
-        background-image: url('../assets/imgs/fig3_1.jpg');
-    }
-    &-140 {
-        background-image: url('../assets/imgs/anarchism_noam.jpg');
-    }
-    &-141 {
-        background-image: url('../assets/imgs/feminism-attack-better-poster.jpg');
-    }
-    &-142 {
-        background-image: url('../assets/imgs/feminism-attack-more-graffitti.jpg');
-    }
-    &-217 {
-        background-image: url('../assets/imgs/images4.jpeg');
-    }
-    &-218 {
-        background-image: url('../assets/imgs/images5.jpeg');
-    }
-    &-219 {
-        background-image: url('../assets/imgs/fig0_1.jpg');
-    }
-    &-220 {
-        background-image: url('../assets/imgs/fig3_2.jpg');
-    }
-    &-221 {
-        background-image: url('../assets/imgs/descarga.jpeg');
-    }
-    &-222 {
-        background-image: url('../assets/imgs/descarga2.jpeg');
-    }
-    &-223 {
-        background-image: url('../assets/imgs/wb.jpg');
-    }
-    &-224 {
-        background-image: url('../assets/imgs/descarga3.jpg');
-    }
 }
