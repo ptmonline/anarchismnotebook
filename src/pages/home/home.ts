@@ -59,28 +59,28 @@ export class HomePage {
   buildQuote(): void {
     this.scrClass = null;
     let quoter = this.showQuote.text;
-    if (quoter.length <= 250 && this.showQuote.extract != null) {
-      this.rndClass = this._quoteHelper.getRandomClass(3,3);
-      if (this.rndClass == 'randclass randclass-5') {
-        this.state4 = true;
-      } else {
-        this.state4 = false;
-      }
-      this.transformedquote = null
-    } else {
-      this.rndClass = this._quoteHelper.getRandomClass(2, 1);
-      this.state4 = false;
-      this.transformedquote = null;
-      if(this.rndClass === 'randclass randclass-2'){
-        let textlong = this.showQuote.text;
-        let textarray = textlong.split(" ");
-        let x = 0;
-        while(x <= (Math.floor(Math.random() * textarray.length)/ 2)){
-          let n = Math.floor(Math.random() * textarray.length)
-          textarray[n] = '<span>'+textarray[n]+'</span>';
-          x++;
-          this.transformedquote = textarray.join(' ');
-        }
+    (quoter.length <= 250 && this.showQuote.extract != null) ? this.buildStateFour() : this.buildStateSpan();
+  }
+
+  buildStateFour(): void {
+    this.rndClass = this._quoteHelper.getRandomClass(3, 3);
+    (this.rndClass == 'randclass randclass-5') ? this.state4 = true : this.state4 = false;
+    this.transformedquote = null
+  }
+
+  buildStateSpan(): void {
+    this.rndClass = this._quoteHelper.getRandomClass(2, 1);
+    this.state4 = false;
+    this.transformedquote = null;
+    if (this.rndClass === 'randclass randclass-2') {
+      let textlong = this.showQuote.text;
+      let textarray = textlong.split(" ");
+      let x = 0;
+      while (x <= (Math.floor(Math.random() * textarray.length) / 2)) {
+        let n = Math.floor(Math.random() * textarray.length)
+        textarray[n] = '<span>' + textarray[n] + '</span>';
+        x++;
+        this.transformedquote = textarray.join(' ');
       }
     }
   }
