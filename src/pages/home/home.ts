@@ -42,7 +42,7 @@ export class HomePage {
     this.n += 1;
     this.showQuote = this.quotesArrayInit[this.n];
     if (this.quotesArray.indexOf(this.showQuote.id) < 0) this.quotesArray.push(this.showQuote.id);
-    console.log(this.quotesArray);
+    // console.log(this.quotesArray);
     this.buildQuote();
   }
   prevQuote(): void {
