@@ -58,7 +58,7 @@ export class HomePage {
 
   buildQuote(): void {
     this.scrClass = null;
-    let quoter = this.showQuote.text;
+    let quoter: string = this.showQuote.text;
     (quoter.length <= 250 && this.showQuote.extract != null) ? this.buildStateFour() : this.buildStateSpan();
   }
 
@@ -73,11 +73,11 @@ export class HomePage {
     this.state4 = false;
     this.transformedquote = null;
     if (this.rndClass === 'randclass randclass-2') {
-      let textlong = this.showQuote.text;
-      let textarray = textlong.split(" ");
-      let x = 0;
+      let textlong: string = this.showQuote.text;
+      let textarray: string[] = textlong.split(" ");
+      let x: number = 0;
       while (x <= (Math.floor(Math.random() * textarray.length) / 2)) {
-        let n = Math.floor(Math.random() * textarray.length)
+        let n: number = Math.floor(Math.random() * textarray.length)
         textarray[n] = '<span>' + textarray[n] + '</span>';
         x++;
         this.transformedquote = textarray.join(' ');

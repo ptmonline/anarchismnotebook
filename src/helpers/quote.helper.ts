@@ -5,7 +5,7 @@ export class QuoteHelper {
     constructor() { }
 
     shuffle(array: string[]): string[] {
-        let currentIndex = array.length,
+        let currentIndex: number = array.length,
             temporaryValue,
             randomIndex;
         while (0 !== currentIndex) {
@@ -23,16 +23,16 @@ export class QuoteHelper {
     }
 
     getHeight() {
-        let quoteHeight = document.getElementById('center-quote');
+        let quoteHeight: HTMLElement = document.getElementById('center-quote');
         console.log(quoteHeight.clientHeight);
     }
 
     createSpanClass(content: string){ //REVIEW TO DO
-        let textlong = content;
-        let textarray = textlong.split(" ");
-        let x = 0;
+        let textlong: string = content;
+        let textarray: string[] = textlong.split(" ");
+        let x: number = 0;
         while(x <= (Math.floor(Math.random() * textarray.length)/ 2)){
-          let n = Math.floor(Math.random() * textarray.length)
+          let n: number = Math.floor(Math.random() * textarray.length)
           textarray[n] = '<span>'+textarray[n]+'</span>';
           x++;
         }
