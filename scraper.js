@@ -14,7 +14,7 @@ function searchItems() {
     $(quote).each(function () {
       var punctuation = $(this).find('.quoteText');
       var author = $(punctuation).find('.authorOrTitle');
-      console.log(colors.green($(author).text()));
+      // console.log(colors.green($(author).text()));
     })
   });
 }
