@@ -1,6 +1,6 @@
 # INSPIRATIONAL RADICAL QUOTES APP 
 ### (intended as subway ride microlectures)
-anarchism, radicalism, libertarism and feminism quotes
+anarchism, radicalism, libertarism and feminism quotes.
 
 *Anarchism is democracy taken seriously. **- Edward Abbey***
 
